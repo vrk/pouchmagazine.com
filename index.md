@@ -1,11 +1,6 @@
 ---
 layout: main
-title: eleventy example | home
+title: Pouch Magazine | an indie magazine for stationery lovers
 ---
 
-# Eleventy Example Home
-
-This is the home page of the example!
-
-- [a little more on templates](fyi-templates)
-- [a little more on config](about-config)
+<div class="hero"></div>
