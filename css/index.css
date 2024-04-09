@@ -13,7 +13,8 @@
 }
 
 .intro,
-.gallery-link {
+.gallery-link,
+.feedback {
   margin: 100px auto;
   margin-bottom: 0;
   max-width: 1100px;
@@ -62,6 +63,26 @@ a.layout-gallery-link .callout {
   padding: 15px 5px;
 }
 
+.feedback {
+  padding: 15px 42px;
+  background-color: white;
+  border: 2px solid #FFDD80;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 42px;
+  font-size: 22px;
+}
+
+.feedback h2 {
+  font-size: 28px;
+}
+
+.feedback img {
+  height: 200px;
+}
+
 @media (max-width: 900px) { 
   .intro {
     flex-direction: column;
@@ -87,5 +108,11 @@ a.layout-gallery-link .callout {
   a.layout-gallery-link .callout {
     font-size: 40px;
     width: 65%;
+  }
+
+  .feedback {
+    flex-direction: column;
+    gap: 15px;
+    padding: 15px;
   }
 }
