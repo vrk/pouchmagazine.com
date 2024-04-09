@@ -192,3 +192,20 @@ a.button:hover {
 main {
   margin-bottom: 150px;
 }
+
+@media (max-width: 600px) { 
+  header .container {
+    flex-direction: column;
+    gap: 10px;
+  }
+  header .container .button {
+    background: none;
+    border: none;
+    transition: none;
+    color: black;
+    padding: 0;
+  }
+  header .container a {
+    text-decoration: underline;
+  }
+}

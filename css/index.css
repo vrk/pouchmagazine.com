@@ -14,6 +14,13 @@
   margin-top: 0;
 }
 
+.mag {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .mag img {
   aspect-ratio: 485 / 680;
   width: 450px;
@@ -23,4 +30,24 @@
 .desc {
   font-size: 26px;
   text-align: center;
+}
+
+@media (max-width: 600px) { 
+  .intro {
+    flex-direction: column;
+    gap: 50px;
+    margin: 50px auto;
+  }
+  .mag img {
+    max-width: 70%;
+  }
+
+  .intro h2 {
+    font-size: 26px;
+  }
+
+  .desc {
+    font-size: 22px;
+    max-width: 90%;
+  }
 }
