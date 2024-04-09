@@ -32,7 +32,7 @@
   text-align: center;
 }
 
-@media (max-width: 600px) { 
+@media (max-width: 900px) { 
   .intro {
     flex-direction: column;
     gap: 50px;

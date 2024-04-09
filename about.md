@@ -8,7 +8,7 @@ stylesheet: /css/about.css
 
 **Pouch** is a new magazine for journalers and stationery lovers. It features journaling ideas, stationery reviews and recommendations, a community layout gallery, DIYs, and more.
 
-Pouch is currently produced, written, designed, and illustrated by a team of one: [me, vrk](https://www.victoriakirst.com/)! It is a 100% self-funded passion project and labor of love.
+Pouch is currently produced, written, designed, and illustrated by a team of one: [me, vrk](https://www.victoriakirst.com/)! I am currently funding this 100% myself and operating out of my living room 😆 It is a passion project and labor of love!
 
 Pouch Issue 1 is a pilot of the magazine, so the future of Pouch depends on the reception of Issue 1! To keep up to date with Pouch news, subscribe to my newsletter, [vrklovespaper](https://vrklovespaper.substack.com/).
 
