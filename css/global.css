@@ -148,6 +148,21 @@ a.button:hover {
   gap: 50px;
 }
 
+.washi-top .container, 
+.washi-top h3 {
+  font-size: 22px;
+  line-height: 1.4;
+}
+
+.washi-top h3 {
+  margin-bottom: 0;
+}
+
+.washi-top ul {
+  margin: 0;
+  padding-left: 1em;
+}
+
 .washi-top .container video {
   width: 60%;
   border-radius: 10px;

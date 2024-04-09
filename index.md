@@ -28,7 +28,7 @@ stylesheet: /css/index.css
     </video>
     <div class="look-inside">
       <p>Pouch is 50 pages of full-color content in A5 size (5.83” x 8.27”).
-      <p><strong>Inside you’ll find:</strong>
+      <h3>Inside you’ll find:</h3>
       <ul>
         <li>Stationery reviews & recommendations
         <li>Journaling tips
