@@ -18,6 +18,24 @@ stylesheet: css/index.css
     <p>Pouch was created to let stationery lovers engage with the stationery community through the medium we know and love best: Paper!
     <p><a href="https://shop.pouchmagazine.com" class="button">Shop Pouch</a>
   </div>
+</div>
 
-  <div class="">
+<div class="washi-top">
+  <div class="container">
+    <h2><span>Look inside: She's chonky!</span></h2>
+    <video autoplay controls disablepictureinpicture loop muted playsinline preload=auto>
+      <source src="/images/flipthrough.mp4" type="video/mp4" />
+    </video>
+    <div class="look-inside">
+      <p>Pouch is 50 pages of full-color content in A5 size (5.83” x 8.27”).
+      <p><strong>Inside you’ll find:</strong>
+      <ul>
+        <li>Stationery reviews & recommendations
+        <li>Journaling tips
+        <li>A journal layout gallery featuring 8 creators
+        <li>An interview with @nikki.kaigi
+        <li>A Kuchipachi coaster DIY
+        <li>And moreeee!!
+    </div>
+  </div>
 </div>

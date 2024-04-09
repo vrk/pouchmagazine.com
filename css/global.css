@@ -6,9 +6,9 @@ html {
   text-underline-position: under;
 
   font-family: "Karla", sans-serif;
-  font-size: 18px;
+  font-size: 26px;
   font-optical-sizing: auto;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -31,6 +31,10 @@ a:hover {
 header {
   background-color: #FFDD80;
   width: 100%;
+}
+
+header, footer, .button {
+  font-size: 20px;
 }
 
 .container {
@@ -115,13 +119,14 @@ a.button {
   border-radius: 15px;
   padding: 10px 20px;
   text-decoration: none;
-  font-size: 18px;
   font-weight: 600;
+  transition: background-color 0.2s, transform 0.2s;
 }
 
 a.button:hover {
   text-decoration: none;
-  background-color: #ffc053;
+  background-color: #ff7526;
+  transform: scale(1.05);
 }
 
 .social {
@@ -132,4 +137,43 @@ a.button:hover {
 
 .shadowed {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.washi-top .container {
+  background-color: white;
+  border-radius: 25px;
+  max-width: 1100px;
+  position: relative;
+  padding: 70px;
+  gap: 50px;
+}
+
+.washi-top .container video {
+  width: 60%;
+  border-radius: 10px;
+  object-fit: cover;
+  aspect-ratio: 6 / 5;
+}
+
+.washi-top .container h2 {
+  position: absolute;
+  margin: 0;
+  top: -30px;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+}
+
+.washi-top .container h2 span {
+  background-color: #FFC3D7;
+  font-family: 'Gaegu', sans-serif;
+  padding: 5px 20px;
+}
+
+main {
+  margin-bottom: 150px;
 }
