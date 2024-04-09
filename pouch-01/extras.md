@@ -45,7 +45,11 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
   - [JetPens](https://www.jetpens.com/Midori-Paintable-Rotating-Date-Stamp-Cat/pd/37728)
   - [Yoseka Stationery](https://yosekastationery.com/products/midori-paintable-stamp-rotating-date)
 
-**Pages 9 & 10**:
+**Page 9:**
+
+- Graphics from [https://regeld.com/desi](https://regeld.com/desi)
+
+**Pages 10 & 11**:
 
 - Traveler’s Notebook Brass Clips
   - [JetPens](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Accessories-030-Brass-Clip-TRC-Logo/pd/26942)
