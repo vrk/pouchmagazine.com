@@ -1,8 +1,6 @@
 .intro {
   display: flex;
   flex-direction: row;
-  max-width: 1100px;
-  margin: 100px auto;
   gap: 90px;
   justify-content: center;
   font-weight: 300;
@@ -12,6 +10,13 @@
 .intro h2 {
   font-size: 36px;
   margin-top: 0;
+}
+
+.intro,
+.gallery-link {
+  margin: 100px auto;
+  margin-bottom: 0;
+  max-width: 1100px;
 }
 
 .mag {
@@ -32,6 +37,31 @@
   text-align: center;
 }
 
+a.layout-gallery-link {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  height: 500px;
+  width: 100%;
+  background-image: url(/pouch-01/images/gallery-bg.png);
+  background-position: center;
+  background-size: cover;
+  border-radius: 25px;
+}
+
+a.layout-gallery-link .callout {
+  font-family: 'Gaegu', sans-serif;
+  font-size: 52px;
+  width: 50%;
+  text-align: center;
+  line-height: 1;
+  display: inline-block;
+  background-color: white;
+  padding: 15px 5px;
+}
+
 @media (max-width: 900px) { 
   .intro {
     flex-direction: column;
@@ -49,5 +79,12 @@
   .desc {
     font-size: 22px;
     max-width: 90%;
+  }
+
+  a.layout-gallery-link {
+    height: 300px;
+  }
+  a.layout-gallery-link .callout {
+    font-size: 40px;
   }
 }

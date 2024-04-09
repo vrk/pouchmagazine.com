@@ -6,7 +6,7 @@ stylesheet: /css/about.css
 
 ## Pouch Issue 1 Layout Gallery
 
-Here are all of the creators featured in the layout gallery for Pouch Issue 1. Follow and support their work!!
+Here are the layouts featured in the journal layout gallery for Pouch Issue 1 on pages 29-45. 
 
 <h2 id="marie">Marie Techou</h2>
 

@@ -39,3 +39,11 @@ stylesheet: /css/index.css
     </div>
   </div>
 </div>
+
+<div class="gallery-link">
+  <a class="layout-gallery-link" href="/pouch-01/layout-gallery">
+    <div class="callout">
+      See all journal layouts featured in Issue #1!
+    </div>
+  </a>
+</div>
