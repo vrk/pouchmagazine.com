@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Pouch Magazine | an indie magazine for stationery lovers
-stylesheet: css/index.css
+stylesheet: /css/index.css
 ---
 
 <div class="hero"></div>
