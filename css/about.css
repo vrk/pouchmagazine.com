@@ -12,3 +12,11 @@ main h2 {
   text-align: center;
   font-size: 42px;
 }
+
+main img {
+  max-width: 100%;
+}
+
+blockquote {
+  font-style: italic;
+}
