@@ -52,7 +52,7 @@ stylesheet: /css/index.css
   <a href="https://vrk2.link/APELyW" target="_blank"><img src="/images/pouch-feedback-graphic.png"></a>
   <div class="feedback-text">
     <h2>Send feedback on Pouch Issue #1</h2>
-    <p>If you’ve read Pouch Issue 1, I’d love to hear what you thought!
+    <p>If you’ve read Pouch Issue 1, I’d love to hear your thoughts on it!
     <p>&gt; <a href="https://vrk2.link/APELyW" target="_blank">Fill out the feedback survey</a> &lt;
   </div>
 </div>
