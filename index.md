@@ -16,7 +16,7 @@ stylesheet: /css/index.css
     <h2>Pouch is a new indie magazine for stationery lovers</h2>
     <p>Pouch is a fanzine for journalers and stationery lovers, launching in Spring 2024. 
     <p>Pouch was created to let stationery lovers engage with the stationery community through the medium we know and love best: Paper!
-    <p><a href="https://shop.pouchmagazine.com" class="button">Shop Pouch</a>
+    <p><a href="https://payhip.com/PouchStudio" class="button">Shop Pouch</a>
   </div>
 </div>
 
