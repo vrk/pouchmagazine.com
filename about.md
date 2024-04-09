@@ -12,7 +12,7 @@ Pouch is currently produced, written, designed, and illustrated by a team of one
 
 Pouch Issue 1 is a pilot of the magazine, so the future of Pouch depends on the reception of Issue 1! To keep up to date with Pouch news, subscribe to my newsletter, [vrklovespaper](https://vrklovespaper.substack.com/).
 
-Feel free to reach out at [hello@pouch.cafe](mailto:hello@pouch.cafe) if you have any questions, suggestions, or feedback!
+Feel free to reach out at [hello@pouchmagazine.com](mailto:hello@pouchmagazine.com) if you have any questions, suggestions, or feedback!
 
 
 
