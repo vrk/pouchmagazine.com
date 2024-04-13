@@ -14,7 +14,7 @@ Pouch Issue 1 is a pilot of the magazine! I'm going to figure out the future of 
 
 To support Pouch:
 
-- [Buy an issue of Pouch](https://payhip.com/PouchStudio) for you and a friend!
+- [Buy an issue of Pouch](https://shop.pouchmagazine.com) for you and a friend!
 - Fill out the [feedback survey](https://vrk2.link/APELyW) for Pouch Issue 1
 
 
