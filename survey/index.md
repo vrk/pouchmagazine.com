@@ -4,17 +4,21 @@ title: Pouch Issue 2 Survey
 stylesheet: /css/survey.css
 ---
 
+<div id="heading">
+
 ## How do YOU stationery?
 
-We wanna hear from stationery fans! If you love to stationery, answer a few survey questions below. 
+We wanna hear from stationery fans! If you love stationery, answer a few survey questions below. 
 
 The results of the survey will be published in [Pouch Issue 2](). 
 We may even publish your answer directly!! (With your permission of course).
 
-**Choose a question card:**
+<h3 id="choose">Choose a question card:</h3>
+
+</div>
 
 <div id="cards">
-  <a href=""><img src=""></a>
-  <a href=""><img src=""></a>
-  <a href=""><img src=""></a>
+  <a href="https://afkv6t1wxkk.typeform.com/to/seMQAIHP"><img src="images/lines-or-grids.png"></a>
+  <a href="https://afkv6t1wxkk.typeform.com/to/nF71ZPsi"><img src="images/fave-indie-stationery.png"></a>
+  <a href="https://afkv6t1wxkk.typeform.com/to/LzXdThWP"><img src="images/linesgridsblanks.png"></a>
 </div>
