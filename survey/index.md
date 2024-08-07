@@ -10,7 +10,7 @@ stylesheet: /css/survey.css
 
 We wanna hear from stationery fans! If you love stationery, answer a few survey questions below. 
 
-The results of the survey will be published in [Pouch Issue 2](). 
+The results of the survey will be published in [Pouch Issue 2](https://shop.pouchmagazine.com/b/preorder-pouch-2-and-3). 
 We may even publish your answer directly!! (With your permission of course).
 
 <h3 id="choose">Choose a question card:</h3>
