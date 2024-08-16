@@ -20,5 +20,5 @@ We may even publish your answer directly!! (With your permission of course).
 <div id="cards">
   <a href="https://afkv6t1wxkk.typeform.com/to/seMQAIHP"><img src="images/lines-or-grids.png"></a>
   <a href="https://afkv6t1wxkk.typeform.com/to/nF71ZPsi"><img src="images/fave-indie-stationery.png"></a>
-  <a href="https://afkv6t1wxkk.typeform.com/to/LzXdThWP"><img src="images/linesgridsblanks.png"></a>
+  <a href="https://afkv6t1wxkk.typeform.com/to/N1ThvrGn"><img src="images/bestpen.png"></a>
 </div>
