@@ -14,9 +14,10 @@
 
 .intro,
 .gallery-link,
+.be-part-of-gallery,
 .feedback {
   margin: 100px auto;
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
   max-width: 1100px;
 }
 
@@ -63,6 +64,128 @@ a.layout-gallery-link .callout {
   padding: 15px 5px;
 }
 
+.halfpage-rounded {
+  display: flex;
+  flex-direction: row;
+  max-width: 1000px;
+  width: 100%;
+  gap: 50px;
+}
+
+.halfpage-rounded > div {
+  width: 100%;
+}
+
+.halfpage-rounded .header-image {
+  height: 325px;
+  border-radius: 25px 25px 0 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.halfpage-rounded .button-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  border-radius: 0 0 25px 25px;
+}
+
+.buy-pouch-issue-1 .header-image {
+  background-image: url(/images/pouch-sakura.png);
+}
+
+.buy-pouch-issue-1 .button-banner {
+  background-color: #FFC3D7;
+}
+
+.buy-2025-subscription .header-image {
+  background-image: url(/images/pouchissue2and3.png);
+}
+
+.buy-2025-subscription .button-banner {
+  background-color: #B1EA68;
+}
+
+.submit-hot-take .header-image {
+  background-color: #FFBB00;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit-hot-take .button-banner {
+  background-color: #D29A00;
+}
+
+.buy-classified-ad .header-image {
+  background-color: #80E4FF;
+  display: grid;
+  grid-template-columns: 1.25fr 2fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.buy-classified-ad .button-banner {
+  background-color: #2DD2FF;
+}
+
+.buy-classified-ad .ad-copy {
+  font-size: 18px;
+  padding-left: 30px;
+}
+
+.buy-classified-ad .ad-copy h3 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.buy-classified-ad .header-image > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.be-part-of-gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+  position: relative;
+}
+
+.be-part-of-gallery .description {
+  padding: 25px 50px;
+  background-color: #F0EEDF;
+  border-radius: 25px 0 0 25px;
+}
+
+.be-part-of-gallery .button-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5em;
+}
+
+.be-part-of-gallery .header-image {
+  border-radius: 0 25px 25px 0;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  background-image: url(/images/bbangi.jpeg);
+}
+
+.be-part-of-gallery .credit {
+  position: absolute;
+  bottom: -20px;
+  right: 25px;
+  font-style: italic;
+  font-size: 14px;
+}
+
 .feedback {
   padding: 15px 42px;
   background-color: white;
@@ -93,6 +216,10 @@ a.layout-gallery-link .callout {
     max-width: 70%;
   }
 
+  .halfpage-rounded {
+    flex-direction: column;
+  }
+
   .intro h2 {
     font-size: 26px;
   }
@@ -102,9 +229,63 @@ a.layout-gallery-link .callout {
     max-width: 90%;
   }
 
+  .be-part-of-gallery {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+.be-part-of-gallery .description {
+  font-size: 20px;
+  padding: 20px;
+  width: 100%;
+  border-radius: 0 0 25px 25px;
+  order: 1;
+}
+
+.be-part-of-gallery .description h2 {
+  margin: 0.25em 0;
+}
+
+.be-part-of-gallery .button-banner {
+  margin: 0.25em 0;
+}
+
+.be-part-of-gallery .credit {
+  bottom: unset;
+  top: -20px;
+}
+
+.be-part-of-gallery .header-image {
+  width: 100%;
+  border-radius: 25px 25px 0 0;
+  order: -1;
+}
+
+.buy-classified-ad .header-image {
+  height: unset;
+  min-height: 325px;
+  grid-template-columns: 1fr;
+}
+
+.buy-classified-ad .header-image > div {
+  gap: 5px;
+}
+
+.buy-classified-ad .add-image {
+  order: 1;
+  padding: 20px;
+}
+
+.buy-classified-ad .ad-copy {
+  padding: 0 50px;
+  padding-bottom: 40px;
+  order: 2;
+}
+
   a.layout-gallery-link {
     height: 400px;
   }
+
   a.layout-gallery-link .callout {
     font-size: 40px;
     width: 65%;

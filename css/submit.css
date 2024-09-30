@@ -1,0 +1,27 @@
+main {
+  width: 80%;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+main h2 {
+  font-size: 35px;
+}
+
+main img {
+  max-width: 100%;
+}
+
+main > div.header-image {
+  margin-top: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url(/images/journal-layout-submish.png);
+  aspect-ratio: 1512  / 731;
+  width: 100%;
+  background-color: #F0EEDF;
+}

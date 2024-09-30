@@ -20,3 +20,12 @@ main img {
 blockquote {
   font-style: italic;
 }
+
+.header-image {
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  background-image: url(/images/bbangi.jpeg);
+  height: 300px;
+  width: 100%;
+}

@@ -141,6 +141,7 @@ a.button:hover {
 
 .washi-top {
   margin-top: 150px;
+  margin-bottom: 100px;
 }
 
 .washi-top .container {
@@ -221,6 +222,7 @@ main {
 
   .washi-top {
     margin-top: 100px;
+    margin-bottom: 100px;
   }
 
   .washi-top .container {
