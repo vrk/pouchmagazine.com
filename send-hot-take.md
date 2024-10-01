@@ -21,7 +21,7 @@ We're experimenting with a community opinion column for Pouch Issue #2!  Send us
 
 Details:
 - We'll select a small number of submissions to be published in Pouch Issue #2.
-- Contributors published in the magazine will receive a free digital download of Pouch Issue #2.
+- Contributors published in the magazine will receive a free physical copy of Pouch Issue #2.
 - Please submit by end of day Sunday, November 17, 2024 to be considered for this issue.
 
 ---
