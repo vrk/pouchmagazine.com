@@ -78,7 +78,7 @@ stylesheet: /css/index.css
     <div class="header-image">
       <div class="ad-copy">
         <h3>Buy an ad in Pouch Issue #2</h3>
-        <div>Be included in our classified ad section for $25!</div>
+        <div>Be included in our classified ad section for $20!</div>
       </div>
       <div class="add-image">
         <img src="/images/classified-ads.png" width="260" height="251" />

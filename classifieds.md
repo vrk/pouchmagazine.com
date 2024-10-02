@@ -11,11 +11,11 @@ stylesheet: /css/classifieds.css
 
 ## Submit to the community classifieds
 
-We're experimenting with a very limited number of community classified ads in Pouch Issue #2! Inspired by the ads in [Bubbles Fanzine](https://www.instagram.com/p/C23QsOHPPRn/). 
+We're experimenting with a very limited number of community classified ads in Pouch Issue #2! Inspired by the ads in [Bubbles Fanzine](https://www.instagram.com/p/C23QsOHPPRn/).
 
 Details:
 - **Size:** Each ad will be 2.5" by 2.5" (square).
-- **Price:** Each ad spot costs $25.
+- **Price:** Each ad spot costs $20.
 - We will print up to 6 community classified ads in Pouch Issue 2.
 
 ---
