@@ -36,7 +36,7 @@ Please include answers to these questions in your email:
 
 1. **Journaling practice:** Can you describe your journaling practice? What do you use this journal for? When do you journal and how often?
 2. **Materials:** What notebook are you using? What pen did you use? (Or pencil, or other writing utensil) What other stationery items did you use, if any?
-3. _(Optional)_ Anything else you wanna share about this journal? 
+3. _(Optional)_ Anything else you wanna share about this journal? For example, you can tell us more about this journal entry, or share some tips and tricks, or anything else!
 4. _(Optional)_ Social media handle and/or any other website you'd like to share
 5. Name & pronouns (Anonymous submissions or pseudonyms are also welcome - just let us know!)
 
