@@ -55,7 +55,7 @@ stylesheet: /css/index.css
   </div>
 </div>
 
-<div class="be-part-of-gallery">
+<div class="be-part-of-gallery" id="submit">
   <div class="description">
     <h2>Submit your journal to Pouch Issue 2</h2>
     <p>Send us a picture of your journal and it may be published in the next issue's journal layout gallery!</p>
