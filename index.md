@@ -73,96 +73,31 @@ stylesheet: /css/index.css
   </div>
 </div>
 
-<div class="intro">
-
-  <div class="mag">
-    <img src="/images/cover.png" class="shadowed">
-  </div>
-
-  <div class="desc">
-    <h2>Pouch is a new indie magazine for stationery lovers</h2>
-    <p>Pouch is a biannual fanzine for journalers and stationery lovers, launched in 2024.
-    <p>Pouch was created to let stationery lovers engage with the stationery community through the medium we know and love best: Paper!
-    <p><a href="https://shop.pouchmagazine.com" class="button">Shop Pouch</a>
-  </div>
-</div>
 
 <div class="washi-top">
   <div class="container">
-    <h2><span>Look inside: She's chonky!</span></h2>
+    <h2><span>Look inside: 58 pages of content!</span></h2>
     <video autoplay controls disablepictureinpicture loop muted playsinline preload=auto>
-      <source src="/images/flipthrough.mp4" type="video/mp4" />
+      <source src="/images/issue2/flipthrough.mp4" type="video/mp4" />
     </video>
     <div class="look-inside">
-      <p>Pouch Issue 1 is 50 pages of full-color content in A5 size (5.83” x 8.27”).
-      <h3>Inside you’ll find:</h3>
-      <ul>
-        <li>Stationery reviews & recommendations
-        <li>Journaling tips
-        <li>A journal layout gallery featuring 8 creators
-        <li>An interview with @nikki.kaigi
-        <li>A Kuchipachi coaster DIY
-        <li>And moreeee!!
+      Here's a flip through some of the pages of Pouch Issue 2! Read stationery reviews, tons of journaling inspiration, tips, tutorials, and more!
     </div>
   </div>
 </div>
 
-<div class="halfpage-rounded">
-  <div class="buy-pouch-issue-1">
-    <div class="header-image"></div>
-    <div class="button-banner">
-      <a href="https://shop.pouchmagazine.com/b/DFxGZ" class="button">Buy Pouch Issue 1</a>
-    </div>
-  </div>
-  <div class="buy-2025-subscription">
-    <div class="header-image"></div>
-    <div class="button-banner">
-      <a href="https://shop.pouchmagazine.com/b/preorder-pouch-2-and-3" class="button">Preorder Issues 2 &amp; 3</a>
-    </div>
-  </div>
+<div class="table-of-contents">
+  <div class="issue2-toc"></div>
 </div>
 
-<div class="be-part-of-gallery" id="submit">
+<div class="main-page-banner buy-pouch" id="submit">
   <div class="description">
-    <h2>Submit your journal to Pouch Issue 2</h2>
-    <p>Send us a picture of your journal and it may be published in the next issue's journal layout gallery!</p>
-    <p class="button-banner"><a href="/submit-journal-layout" class="button">Submit Your Journal Layout</a></p>
+    <h2>Buy Pouch Issue 2</h2>
+    <p>Get the issue today! Pouch Issue 2 ships worldwide.</p>
+    <p class="button-banner"><a href="#" class="button">Buy Pouch Issue 2</a></p>
   </div>
   <div class="header-image"></div>
   <div class="credit">Journal by <a href="https://www.instagram.com/offoffonoff2/" target="_blank">@offoffonoff2</a></div>
-</div>
-
-<div class="halfpage-rounded">
-  <div class="submit-hot-take">
-    <div class="header-image">
-      <img src="/images/hottakes.png" height="250" />
-    </div>
-    <div class="button-banner">
-      <a href="/send-hot-take" class="button">Send a letter to the editor</a>
-    </div>
-  </div>
-  <div class="buy-classified-ad">
-    <div class="header-image">
-      <div class="ad-copy">
-        <h3>Buy an ad in Pouch Issue #2</h3>
-        <div>Be included in our classified ad section for $20!</div>
-      </div>
-      <div class="add-image">
-        <img src="/images/classified-ads.png" width="260" height="251" />
-      </div>
-    </div>
-    <div class="button-banner">
-      <a href="/classifieds" class="button">Buy a community ad</a>
-    </div>
-  </div>
-</div>
-
-<div class="gallery-link">
-  <a class="layout-gallery-link" href="/pouch-01/layout-gallery">
-    <div class="callout">
-      See all journal layouts featured in Issue #1!
-    </div>
-  </a>
 </div>
 
 <div class="feedback">

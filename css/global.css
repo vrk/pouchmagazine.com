@@ -154,6 +154,8 @@ a.button:hover {
   position: relative;
   padding: 70px;
   gap: 50px;
+  flex-direction: column;
+  text-align: center;
 }
 
 .washi-top .container, 
@@ -172,7 +174,7 @@ a.button:hover {
 }
 
 .washi-top .container video {
-  width: 60%;
+  width: 70%;
   border-radius: 10px;
   object-fit: cover;
   aspect-ratio: 6 / 5;
