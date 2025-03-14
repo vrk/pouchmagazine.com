@@ -287,11 +287,12 @@
 .gallery {
   background-image: url(/images/issue2/carousel-gallery.png);
   height: 73%;
+  transform: rotate(5deg);
 }
 
 .hot-takes {
   background-image: url(/images/issue2/carousel-hottakes.png);
-  height: 90%;
+  height: 100%;
 }
 
 .and-more {
