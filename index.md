@@ -19,7 +19,7 @@ stylesheet: /css/index.css
         <div class="pouch-scene-rope"></div>
       </div>
       <div class="shop">
-        <div class="shop-door-open"></div>
+        <!-- <div class="shop-door-open"></div> -->
         <div class="shop-door-closed"></div>
       </div>
     </div>
