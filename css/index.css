@@ -32,7 +32,9 @@
 .issue2-scene .wall {
   background-color: #FFFEF2;
   width: 100%;
-  height: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .issue2-scene .wall .placeable {
@@ -47,29 +49,40 @@
 
 .main-scene {
   position: relative;
-  width: 100%;
-  height: 510px;
-  top: 108px;
+  width: 1400px;
+  max-width: 95%;
+  height: auto;
+  top: 21.2%;
+  aspect-ratio: 1400  / 510;
 }
 
 .prof-bunny-box {
   position: absolute;
   aspect-ratio: 324 / 510;
   height: auto;
-  width: 324px;
+  width: 23%;
   left: 0;
+  top: 17%
 }
 
 .pouch-out-now {
-  display: flex;
   flex-direction: column;
-  width: 861px;
-  justify-content: center;
-  align-items: center;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1400/491;
   position: absolute;
-  left: 250px;
-  bottom: 0;
+  top: 17.6%;
+  left: 0;
+  right: 0;
 }
+
+.shop {
+  position: absolute;
+  left: 82.5%;
+  width: 31.5%;
+  top: 37%;
+}
+
 
 .prof-dialogue {
   position: absolute;
@@ -77,6 +90,7 @@
   left: 0;
   background-image: url(/images/issue2/dialogue-brown.png);
   background-size: contain;
+  background-repeat: no-repeat;
   aspect-ratio: 310/276;
   width: 69%;
   height: auto;
@@ -88,6 +102,7 @@
   right: 0;
   background-image: url(/images/issue2/profbunny.png);
   background-size: contain;
+  background-repeat: no-repeat;
   aspect-ratio: 550/734;
   width: 69%;
   height: auto;
@@ -96,9 +111,11 @@
 .pouch-scene-title {
   background-image: url(/images/issue2/pouch-red-cmyk.svg);
   background-size: contain;
+  background-repeat: no-repeat;
   aspect-ratio: 300/97;
-  width: 100%;
+  width: 61.5%;
   height: auto;
+  margin: auto
 }
 
 .pouch-scene-subtitle {
@@ -107,14 +124,54 @@
   font-weight: normal;
   position: relative;
   top: -30px;
+  margin: auto;
+  text-align: center;
 }
 
 .pouch-scene-rope {
   background-image: url(/images/issue2/red-rope.png);
   background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   aspect-ratio: 764/229;
+  width: 41.2%;
+  height: auto;
+  margin: auto;
+  bottom: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.shop-door-open {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(/images/issue2/door-open.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  aspect-ratio: 460/645;
   width: 67%;
   height: auto;
+  visibility: visible;
+}
+
+
+
+.shop-door-closed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(/images/issue2/door-closed.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+  aspect-ratio: 347/509;
+  width: 50.3%;
+  height: auto;
+  visibility: hidden;
 }
 
 .mag {

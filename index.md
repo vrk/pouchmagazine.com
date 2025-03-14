@@ -18,7 +18,10 @@ stylesheet: /css/index.css
         </div>
         <div class="pouch-scene-rope"></div>
       </div>
-      <div class="shop"></div>
+      <div class="shop">
+        <div class="shop-door-open"></div>
+        <div class="shop-door-closed"></div>
+      </div>
     </div>
   </div>
   <div class="floor"></div>
