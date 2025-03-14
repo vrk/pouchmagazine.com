@@ -45,11 +45,30 @@
   height: 675px;
 }
 
-.prof-bunny-box {
+.main-scene {
   position: relative;
+  width: 100%;
+  height: 510px;
+  top: 108px;
+}
+
+.prof-bunny-box {
+  position: absolute;
   aspect-ratio: 324 / 510;
   height: auto;
   width: 324px;
+  left: 0;
+}
+
+.pouch-out-now {
+  display: flex;
+  flex-direction: column;
+  width: 861px;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 250px;
+  bottom: 0;
 }
 
 .prof-dialogue {
@@ -74,6 +93,29 @@
   height: auto;
 }
 
+.pouch-scene-title {
+  background-image: url(/images/issue2/pouch-red-cmyk.svg);
+  background-size: contain;
+  aspect-ratio: 300/97;
+  width: 100%;
+  height: auto;
+}
+
+.pouch-scene-subtitle {
+  font-family: "Gaegu", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  position: relative;
+  top: -30px;
+}
+
+.pouch-scene-rope {
+  background-image: url(/images/issue2/red-rope.png);
+  background-size: contain;
+  aspect-ratio: 764/229;
+  width: 67%;
+  height: auto;
+}
 
 .mag {
   display: flex;

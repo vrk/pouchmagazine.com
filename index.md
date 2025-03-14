@@ -7,15 +7,19 @@ stylesheet: /css/index.css
 <div class="issue2-scene hero">
   <div class="wall">
     <div class="main-scene">
-    <div class="prof-bunny-box">
-      <div class="prof-dialogue"></div>
-      <div class="prof-bunny"></div>
+      <div class="prof-bunny-box">
+        <div class="prof-dialogue"></div>
+        <div class="prof-bunny"></div>
+      </div>
+      <div class="pouch-out-now">
+        <div class="pouch-scene-title"></div>
+        <div class="pouch-scene-subtitle">
+          Issue Two is out now! 
+        </div>
+        <div class="pouch-scene-rope"></div>
+      </div>
+      <div class="shop"></div>
     </div>
-    <div class="pouch-out-now"></div>
-    <div class="shop"></div>
-    </div>
-  
-  
   </div>
   <div class="floor"></div>
 </div>
