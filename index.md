@@ -27,6 +27,11 @@ stylesheet: /css/index.css
   <div class="floor">
     <div class="floor-scene">
       <div class="bunny-sit"></div>
+      <div class="floor-featuring">
+        <p>Featuring:</p>
+        <div class="feature-table">
+        </div>
+      </div>
       <div class="bunny-stand"></div>
     </div>
   </div>

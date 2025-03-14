@@ -73,7 +73,6 @@
 }
 
 .pouch-out-now {
-  flex-direction: column;
   width: 100%;
   height: auto;
   aspect-ratio: 1400/491;
@@ -129,10 +128,10 @@
 
 .pouch-scene-subtitle {
   font-family: "Gaegu", sans-serif;
-  font-size: 32px;
+  font-size: clamp(10px, 3vw, 34px);
   font-weight: normal;
   position: relative;
-  top: -30px;
+  top: -6%;
   margin: auto;
   text-align: center;
 }
@@ -206,6 +205,34 @@
   height: auto;
 }
 
+.floor-featuring {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1400/419;
+  position: absolute;
+  top: 17.6%;
+  left: 0;
+  right: 0;
+}
+
+.floor-featuring p {
+  font-family: "Gaegu", sans-serif;
+  font-weight: normal;
+  font-size: clamp(10px, 3vw, 34px);
+  margin: 0 auto;
+  margin-bottom: 1%;
+  text-align: center;
+}
+
+.feature-table {
+  display: flex;
+  width: 45%;
+  aspect-ratio: 700 / 418;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.45);
+  margin: auto;
+  border-radius: 45px;
+}
 
 .mag {
   display: flex;
