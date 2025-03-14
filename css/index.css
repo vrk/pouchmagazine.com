@@ -437,15 +437,8 @@ a.layout-gallery-link .callout {
 }
 
 .main-page-banner .description {
-  padding: 25px 50px;
+  padding: 50px;
   border-radius: 25px 0 0 25px;
-}
-
-.main-page-banner .button-banner {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 1.5em;
 }
 
 .main-page-banner .header-image {
@@ -453,6 +446,25 @@ a.layout-gallery-link .callout {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.main-page-banner .description-flip {
+  padding: 50px;
+  border-radius: 0 25px 25px 0;
+}
+
+.main-page-banner .header-image-flip {
+  border-radius: 25px 0 0 25px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.main-page-banner .button-banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5em;
 }
 
 .main-page-banner.buy-pouch .description {
@@ -468,6 +480,22 @@ a.layout-gallery-link .callout {
 
 .main-page-banner.buy-pouch .header-image {
   background-image: url(/images/issue2/pouch-photo.png);
+}
+
+.main-page-banner.buy-stickers .description-flip {
+  background-color: #CCF3F9;
+  text-align: center;
+}
+
+.main-page-banner.buy-stickers .description-flip p,
+.main-page-banner.buy-stickers .description-flip h2 {
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-page-banner.buy-stickers .header-image-flip {
+  background-image: url(/images/issue2/karaoke-stickers.jpg);
 }
 
 .main-page-banner .credit {
@@ -539,7 +567,8 @@ a.layout-gallery-link .callout {
     grid-template-rows: 1fr 1fr;
   }
 
-.main-page-banner .description {
+.main-page-banner .description,
+.main-page-banner .description-flip {
   font-size: 20px;
   padding: 20px;
   width: 100%;
@@ -547,6 +576,7 @@ a.layout-gallery-link .callout {
   order: 1;
 }
 
+.main-page-banner .description-flip h2,
 .main-page-banner .description h2 {
   margin: 0.25em 0;
 }
@@ -560,7 +590,8 @@ a.layout-gallery-link .callout {
   top: -20px;
 }
 
-.main-page-banner .header-image {
+.main-page-banner .header-image,
+.main-page-banner .header-image-flip {
   width: 100%;
   border-radius: 25px 25px 0 0;
   order: -1;

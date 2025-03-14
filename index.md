@@ -97,7 +97,15 @@ stylesheet: /css/index.css
     <p class="button-banner"><a href="#" class="button">Buy Pouch Issue 2</a></p>
   </div>
   <div class="header-image"></div>
-  <div class="credit">Journal by <a href="https://www.instagram.com/offoffonoff2/" target="_blank">@offoffonoff2</a></div>
+</div>
+
+<div class="main-page-banner buy-stickers" id="submit">
+  <div class="header-image-flip"></div>
+  <div class="description-flip">
+    <h2>We have stickers now, too!</h2>
+    <p>Shop the sticker collection</p>
+    <p class="button-banner"><a href="#" class="button">Buy Stickers</a></p>
+  </div>
 </div>
 
 <div class="feedback">
