@@ -30,6 +30,12 @@ stylesheet: /css/index.css
       <div class="floor-featuring">
         <p>Featuring:</p>
         <div class="feature-table">
+          <div class="feature-item">
+            <div class="feature-icon">
+              <div class="feature-icon-image stationery-reviews"></div>
+            </div>
+            <div class="feature-caption">Stationery<br>reviews</div>
+          </div>
         </div>
       </div>
       <div class="bunny-stand"></div>
