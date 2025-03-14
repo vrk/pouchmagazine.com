@@ -4,7 +4,21 @@ title: Pouch Magazine | an indie magazine for stationery lovers
 stylesheet: /css/index.css
 ---
 
-<div class="hero"></div>
+<div class="issue2-scene hero">
+  <div class="wall">
+    <div class="main-scene">
+    <div class="prof-bunny-box">
+      <div class="prof-dialogue"></div>
+      <div class="prof-bunny"></div>
+    </div>
+    <div class="pouch-out-now"></div>
+    <div class="shop"></div>
+    </div>
+  
+  
+  </div>
+  <div class="floor"></div>
+</div>
 
 <div class="intro">
 

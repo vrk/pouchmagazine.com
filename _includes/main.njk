@@ -28,7 +28,7 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Gaegu&family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Gaegu:wght@300;400;700&family=Karla:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="/css/global.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="{{ stylesheet | safe }}" type="text/css" media="screen" />
@@ -37,16 +37,26 @@
   </head>
 
   <body>
-    <header>
+{%- if '/about' in page.url %}
+    <header class="about">
       <div class="container">
         <a href="/"><img src="/images/pouch-plain-w-outline.png" height="54" width="197"/></a>
-
         <nav>
           <a href="/about">About</a>
-          <a href="https://shop.pouchmagazine.com" class="button">Shop Pouch</a>
+          <a href="https://shop.pouchmagazine.com">Shop Pouch</a>
         </nav>
       </div>
     </header>
+{% else %}
+    <header>
+      <div class="container rightjustify">
+        <nav>
+          <a href="/about">About</a>
+          <a href="https://shop.pouchmagazine.com">Shop Pouch</a>
+        </nav>
+      </div>
+    </header>
+{%- endif -%}
 
     <main>
       {{ content | safe }}

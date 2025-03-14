@@ -12,7 +12,7 @@ Share one of your favorite journaling layouts or planner spreads with Pouch for 
   
 Details:
   
-- All journal layouts will be displayed on the pouchmagazine.com website, and some will be published in the magazine! _(We wish we could guarantee we will print them all, but we are limited on space!)_
+- All journal layouts will be displayed on the pouchmagazine.com website, and some will be published in the magazine! _(We wish we could guarantee we will  print them all, but we are limited on space!)_
 - Contributors published in the magazine will receive a free physical copy of Pouch Issue #2.
 - Please submit by end of day Sunday, November 17, 2024 to be considered for this issue.
 

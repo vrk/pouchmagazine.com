@@ -21,6 +21,60 @@
   max-width: 1100px;
 }
 
+.issue2-scene {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.issue2-scene .wall {
+  background-color: #FFFEF2;
+  width: 100%;
+  height: 550px;
+}
+
+.issue2-scene .wall .placeable {
+  position: absolute;
+}
+
+.issue2-scene .floor {
+  background-color: #B1D18A;
+  width: 100%;
+  height: 675px;
+}
+
+.prof-bunny-box {
+  position: relative;
+  aspect-ratio: 324 / 510;
+  height: auto;
+  width: 324px;
+}
+
+.prof-dialogue {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(/images/issue2/dialogue-brown.png);
+  background-size: contain;
+  aspect-ratio: 310/276;
+  width: 69%;
+  height: auto;
+}
+
+.prof-bunny {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-image: url(/images/issue2/profbunny.png);
+  background-size: contain;
+  aspect-ratio: 550/734;
+  width: 69%;
+  height: auto;
+}
+
+
 .mag {
   display: flex;
   flex-direction: column;
