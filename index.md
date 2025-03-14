@@ -24,7 +24,12 @@ stylesheet: /css/index.css
       </div>
     </div>
   </div>
-  <div class="floor"></div>
+  <div class="floor">
+    <div class="floor-scene">
+      <div class="bunny-sit"></div>
+      <div class="bunny-stand"></div>
+    </div>
+  </div>
 </div>
 
 <div class="intro">
