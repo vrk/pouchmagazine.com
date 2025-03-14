@@ -36,6 +36,36 @@ stylesheet: /css/index.css
             </div>
             <div class="feature-caption">Stationery<br>reviews</div>
           </div>
+          <div class="feature-item">
+            <div class="feature-icon">
+              <div class="feature-icon-image pouch-reviews"></div>
+            </div>
+            <div class="feature-caption">Pouch reviews<br>(like actual pouches)</div>
+          </div>
+          <div class="feature-item">
+            <div class="feature-icon">
+              <div class="feature-icon-image interview"></div>
+            </div>
+            <div class="feature-caption">Visual journaling<br>with Carolyn Yoo</div>
+          </div>
+          <div class="feature-item">
+            <div class="feature-icon">
+              <div class="feature-icon-image gallery"></div>
+            </div>
+            <div class="feature-caption">Over 20 journals<br>in 3 galleries</div>
+          </div>
+          <div class="feature-item">
+            <div class="feature-icon">
+              <div class="feature-icon-image hot-takes"></div>
+            </div>
+            <div class="feature-caption">Stationery hot takes</div>
+          </div>
+          <div class="feature-item">
+            <div class="feature-icon">
+              <div class="feature-icon-image and-more"></div>
+            </div>
+            <div class="feature-caption">And more...!</div>
+          </div>
         </div>
       </div>
       <div class="bunny-stand"></div>

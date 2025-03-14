@@ -234,20 +234,20 @@
   height: auto;
   background-color: rgba(255, 255, 255, 0.45);
   margin: auto;
-  border-radius: 45px;
+  border-radius: 5% / 8.5%;
 }
 
 .feature-item {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-  height: 85%;
+  height: 100%;
 }
 
 .feature-icon {
   width: 100%;
-  height: 75%;
+  height: 60%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -256,10 +256,9 @@
 
 .feature-caption {
   font-family: 'Gaegu', sans-serif;
-  font-size: clamp(10px, 1.75vw, 24px);
+  font-size: clamp(10px, 1.5vw, 22px);
   text-align: center;
-  line-height: 0.9;
-  height: 25%;
+  line-height: 1;
 }
 
 .feature-icon-image {
@@ -272,8 +271,32 @@
 
 .stationery-reviews {
   background-image: url(/images/issue2/carousel-stationeryreviews.png);
-  aspect-ratio: 108/120;
   height:70%;
+}
+
+.pouch-reviews {
+  background-image: url(/images/issue2/carousel-pouch.png);
+  height:60%;
+}
+
+.interview {
+  background-image: url(/images/issue2/carousel-interview.png);
+  height:90%;
+}
+
+.gallery {
+  background-image: url(/images/issue2/carousel-gallery.png);
+  height: 73%;
+}
+
+.hot-takes {
+  background-image: url(/images/issue2/carousel-hottakes.png);
+  height: 90%;
+}
+
+.and-more {
+  background-image: url(/images/issue2/carousel-andmore.png);
+  height: 90%;
 }
 
 .mag {
