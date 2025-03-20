@@ -210,6 +210,15 @@ main {
 }
 
 @media (max-width: 900px) { 
+  header {
+    height: 80px;
+    font-size: 32px;
+  }
+
+  header.about {
+    height: 150px;
+  }
+
   header .container {
     flex-direction: column;
     gap: 10px;
