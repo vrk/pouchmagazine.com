@@ -2,6 +2,7 @@
 layout: main
 title: Pouch Magazine | an indie magazine for stationery lovers
 stylesheet: /css/index.css
+script: /scripts/index.js
 ---
 
 <div class="issue2-scene hero">
@@ -12,15 +13,17 @@ stylesheet: /css/index.css
         <div class="prof-bunny"></div>
       </div>
       <div class="pouch-out-now">
-        <div class="pouch-scene-title"></div>
+        <a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank">
+          <div class="pouch-scene-title"></div>
+        </a>
         <div class="pouch-scene-subtitle">
-          Issue Two is out now! 
+          <a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank" class="start-unlined">Issue Two is out now!</a>
         </div>
         <div class="pouch-scene-rope"></div>
       </div>
       <div class="shop">
         <!-- <div class="shop-door-open"></div> -->
-        <div class="shop-door-closed"></div>
+        <a href="https://shop.pouchmagazine.com" target="_blank"><div class="shop-door-closed"></div></a>
       </div>
     </div>
   </div>
@@ -94,7 +97,7 @@ stylesheet: /css/index.css
   <div class="description">
     <h2>Buy Pouch Issue 2</h2>
     <p>Get the issue today! Pouch Issue 2 ships worldwide.</p>
-    <p class="button-banner"><a href="#" class="button">Buy Pouch Issue 2</a></p>
+    <p class="button-banner"><a href="https://shop.pouchmagazine.com/b/pouch-issue-2" class="button">Buy Pouch Issue 2</a></p>
   </div>
   <div class="header-image"></div>
 </div>
@@ -104,7 +107,7 @@ stylesheet: /css/index.css
   <div class="description-flip">
     <h2>We have stickers now, too!</h2>
     <p>Shop the sticker collection</p>
-    <p class="button-banner"><a href="#" class="button">Buy Stickers</a></p>
+    <p class="button-banner"><a href="https://shop.pouchmagazine.com/collection/stickers" class="button">Buy Stickers</a></p>
   </div>
 </div>
 

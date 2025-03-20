@@ -21,6 +21,14 @@
   max-width: 1100px;
 }
 
+a.start-unlined {
+  text-decoration: none;
+}
+
+a.start-unlined:hover {
+  text-decoration: underline;
+}
+
 .issue2-scene {
   display: flex;
   flex-direction: column;
@@ -635,5 +643,94 @@ a.layout-gallery-link .callout {
 
   .feedback h2 {
     margin-top: 0;
+  }
+
+  header {
+    height: 80px;
+    font-size: 32px;
+  }
+
+  .shop {
+    display: none;
+  }
+
+  .prof-dialogue {
+    display: none;
+  }
+
+  .main-scene {
+    aspect-ratio: 1400 / 1000;
+  }
+
+  .prof-bunny {
+    width: 100%;
+  }
+
+  .prof-bunny-box {
+    top: 53%;
+    left: 0;
+    width: 28%;
+  }
+
+  .pouch-out-now {
+    aspect-ratio: 1400/945;
+  }
+
+  .pouch-scene-rope {
+    width: 70%;
+    left: 23%;
+  }
+
+  .pouch-scene-title {
+    width: 90%;
+  }
+
+  .pouch-scene-subtitle {
+    font-size: clamp(10px, 6vw, 34px);
+  }
+
+  .floor-scene {
+    aspect-ratio: 1400 / 3500;
+  }
+
+  .bunny-sit {
+    top: 9%;
+    width: 34%;
+    left: 10%;
+  }
+
+  .bunny-stand {
+    top: 4.5%;
+    width: 20%;
+    right: 17%;
+  }
+
+  .floor-featuring {
+    top: 30.75%;
+  }
+
+  .floor-featuring p {
+    font-size: clamp(10px, 7vw, 34px);
+  }
+
+  .feature-table {
+    width: 100%;
+    /* background: none; */
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 33% 33% 34%; 
+    aspect-ratio: 700 / 1100;
+    /* padding: 0 1em;
+    gap: 1em; */
+    border-radius: 0;
+    margin-top: 0.5em;
+  }
+
+  .feature-icon {
+    /* height: 70%; */
+  }
+
+  .feature-caption {
+    font-size: clamp(10px, 5vw, 22px);
+    padding: 0 0.5em;
   }
 }
