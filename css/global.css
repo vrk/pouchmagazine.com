@@ -233,7 +233,7 @@ main {
   .washi-top .container {
     flex-direction: column;
     padding: 1em;
-    gap: 0;
+    gap: 25px;
   }
 
   .washi-top .container h2 {

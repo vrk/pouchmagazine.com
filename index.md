@@ -49,7 +49,7 @@ script: /scripts/index.js
             <div class="feature-icon">
               <div class="feature-icon-image interview"></div>
             </div>
-            <div class="feature-caption">Visual journaling<br>with Carolyn Yoo</div>
+            <div class="feature-caption">Visual journaling<br>with <a href="https://carolynyoo.com/" target="_blank" class="start-unlined">Carolyn Yoo</a></div>
           </div>
           <div class="feature-item">
             <div class="feature-icon">
