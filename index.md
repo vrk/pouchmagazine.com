@@ -112,10 +112,10 @@ script: /scripts/index.js
 </div>
 
 <div class="feedback">
-  <a href="https://vrk2.link/APELyW" target="_blank"><img src="/images/pouch-feedback-graphic.png"></a>
+  <a href="https://afkv6t1wxkk.typeform.com/to/YoiVzUlF" target="_blank"><img src="/images/pouch-feedback-graphic.png"></a>
   <div class="feedback-text">
-    <h2>Send feedback on Pouch Issue #1</h2>
-    <p>If you’ve read Pouch Issue 1, I’d love to hear your thoughts on it!
-    <p>&gt; <a href="https://vrk2.link/APELyW" target="_blank">Fill out the feedback survey</a> &lt;
+    <h2>Send feedback on Pouch Issue #2</h2>
+    <p>If you’ve read Pouch Issue 2, we’d love to hear your thoughts on it!
+    <p>&gt; <a href="https://afkv6t1wxkk.typeform.com/to/YoiVzUlF" target="_blank">Fill out the feedback survey</a> &lt;
   </div>
 </div>
