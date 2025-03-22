@@ -120,7 +120,7 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [Hobonichi Cousin Avec](https://www.jetpens.com/Hobonichi-Techo-Book-Only-Cousin-Avec-A5-Japanese-2-Half-Year-Techo-Book-Set-2025-Jan-Start/pd/44391)
 
 **Page 32**
-- [@moccalumi][https://www.instagram.com/moccalumi]
+- [@moccalumi](https://www.instagram.com/moccalumi)
 - [Lucalab Archive Binder](https://lucalabglobal.com/collections/diary/products/a5-pvc-cover-glitter-options)
 
 **Page 33**
