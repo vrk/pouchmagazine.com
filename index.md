@@ -3,6 +3,7 @@ layout: main
 title: Pouch Magazine | an indie magazine for stationery lovers
 stylesheet: /css/index.css
 script: /scripts/index.js
+skipPouchLogo: true
 ---
 
 <div class="issue2-scene hero">
