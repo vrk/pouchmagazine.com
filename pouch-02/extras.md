@@ -230,7 +230,23 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 
 
 **Page 58**
-- 
+- [Sheer Spite](http://sheerspite.ca/)
+- [@sheerspite](https://www.instagram.com/sheerspite)
+- [Kwohtations](https://kwohtations.com/)
+- [@kwohtations](https://www.instagram.com/kwohtations)
+- [Pen Paper Palooza](https://www.penpaperpalooza.com/)
+- [HambyMiscellany](https://www.etsy.com/shop/hambymiscellany/)
+- [Leaflet](https://leaflet.pub/)
+- [@two.orcas](https://instagram.com/@two.orcas)
+- [A Troll's Path](https://atrollspath.com/)
+
+
+**Page 59**
+- [@pouch.studio](https://instagram.com/pouch.studio)
+- [vrklovespaper Substack](vrklovespaper.substack.com)
+- [@nikki.kaigi](https://instagram.com/nikki.kaigi)
+- [@reytorra](https://instagram.com/reytorra)
+- [Pouch Issue 2 feedback survey](https://afkv6t1wxkk.typeform.com/to/YoiVzUlF)
 
 
 🚧 This page is under construction!! Check back tomorrow and it should be finished :D 🚧
