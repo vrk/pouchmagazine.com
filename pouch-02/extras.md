@@ -101,6 +101,30 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 
 **Page 26**
 
+- [EASTHILL Big Capacity Pencil Pen Case](https://www.amazon.com/EASTHILL-Capacity-College-Storage-Organizer/dp/B07H6G7ZQF)
+- [Caran D’ache Luminance colored pencils](https://www.dickblick.com/products/caran-dache-luminance-colored-pencils/)
+- [Caran D’ache Neocolor II oil pastels](https://www.dickblick.com/products/caran-dache-neocolor-ii-artists-crayons)
+- [Mungyo Gallery pastels](https://www.dickblick.com/products/mungyo-gallery-artists-soft-oil-pastel-sets)
+- [PrismaColor pencils](https://www.dickblick.com/products/prismacolor-premier-colored-pencils)
+- [Derwent Inktense pencils](https://www.dickblick.com/products/derwent-inktense-pencils)
+- [Tombow Dual Brush Pens](https://www.dickblick.com/products/tombow-dual-brush-pens/)
+
+**Page 28**
+
+- [Public Records](https://publicrecords.nyc/)
+- [SEE YOU Substack](https://cyoo.substack.com/)
+- [@carolynyoo](https://www.instagram.com/carolynyoo/)
+
+**Page 30**
+- [@5am.raining](https://www.instagram.com/5am.raining)
+- [Hobonichi Cousin Avec](https://www.jetpens.com/Hobonichi-Techo-Book-Only-Cousin-Avec-A5-Japanese-2-Half-Year-Techo-Book-Set-2025-Jan-Start/pd/44391)
+
+**Page 32**
+- [@moccalumi][https://www.instagram.com/moccalumi]
+- [Lucalab Archive Binder](https://lucalabglobal.com/collections/diary/products/a5-pvc-cover-glitter-options)
+
+**Page 33**
+- [@owo.penpal](https://www.instagram.com)
 
 
 🚧 This page is under construction!! Check back tomorrow (or the day after) and it should be finished :D 🚧
