@@ -148,6 +148,37 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [Buttercrafts](https://buttercrafts.com/)
 
 **Page 42**
+- [heeheeclub Mess with Hip-Hop Dance Stickers](https://journal-pages.com/products/mess-with-hip-hop-dance-stickers)
+- [Megan Wang shop](https://meganwang.shop/)
+- [POMMO press](https://www.pommopress.com/)
+- [Screm by Lazi Sooz](https://yosekastationery.com/products/lazi-sooz-screm-sticker)
+- [Stinky Banana Sticker by Bandage Brigade](https://bandagebrigade.com/collections/stickers/products/stinky-banana-sticker)
+- [Beegachow Deco by Shattered Earth](https://shattered.earth/products/beegachow-sticker-sheets?variant=48136753152309)
+- [Sonja Lei shop](https://sonyalei.com/shop)
+- [Haikyuu!! Face Emoji Sticker Sheet by kuru731](https://kuru731.store/products/haikyuu-face-emoji-sticker-sheet)
+- [Bread (with butter) by B-side Label](https://shop.bside-label.com/en-lang/products/shi-pan-bataar)
+
+**Page 43**
+- [@noteandwish](https://instagram.com/noteandwish)
+- [@papermintystudio](https://instagram.com/papermintystudio)
+- [@thecoffeemonsterzco](https://instagram.com/thecoffeemonsterzco)
+- [@kuru731](https://instagram.com/kuru731)
+- [@mugobunni](https://instagram.com/mugobunni)
+- [@tncts](https://instagram.com/tncts)
+- [@knivesmeow](https://instagram.com/knivesmeow)
+- [@linchianing](https://instagram.com/linchianing)
+- [@eric_smallthings](https://instagram.com/eric_smallthings)
+- [@littlelu_lu](https://instagram.com/littlelu_lu)
+
+- [Muji 0.38](https://www.muji.us/products/gel-ink-cap-type-ballpoint-pen-set-10-pieces-set-9a63)
+- [Uniball One](https://www.jetpens.com/Uni-ball-One-Gel-Pens/ct/6502)
+- [Sailor Pro Gear](https://yosekastationery.com/collections/sailor-pro-gear-fountain-pens)
+
+**Page 44**
+- [Reytorra shop](https://reytorra.com/)
+- [Reytorra Comfort food sticker sheet](https://reytorra.com/products/comfort-food-dog-stickers)
+- [@reytorra Instagram](https://instagram.com/reytorra)
+- [@Reytorra.Studio YouTube](https://www.youtube.com/@Reytorra.Studio)
 
 **Page 47**
 - [Stabilo Woody Colored Pencils](https://www.dickblick.com/items/stabilo-woody-3-in-1-pencils-assorted-set-of-18/)
