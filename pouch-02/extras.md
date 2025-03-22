@@ -191,5 +191,46 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [@callingfeather](https://instagram.com/callingfeather)
 - [Hobonichi Day-Free A5](https://www.jetpens.com/Hobonichi-Techo-Book-Only-Day-Free-Cousin-A5-Japanese-2025-Jan-Start/pd/44395)
 
+**Page 50**
+- [@ixorako](https://instagram.com/ixorako)
+- [Hobonichi Weeks](https://www.jetpens.com/Hobonichi-Techo-Weeks/ct/4399)
+- [Nini Mart stickers](https://shopninimart.com/)
+
+
+**Page 51**
+- [@art.avie.co](https://instagram.com/art.avie.co)
+- [Midori MD Notebook - A5 - Grid](https://www.jetpens.com/Midori-MD-Notebook-A5-Grid/pd/13607)
+- [Young Royals](https://www.netflix.com/title/81210762)
+
+
+**Page 52**
+- [@travale](https://instagram.com/travale)
+- [Traveler's Company notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebooks/ct/3786)
+
+
+**Page 53**
+- [@gypsyallie](https://instagram.com/gypsyallie)
+- [HP Sprocket Mini Printer](https://www.amazon.com/HP-Sprocket-Portable-Photo-Printer/dp/B07GFP7H8C)
+
+**Page 54 & 55**
+- [@mrsabigul](https://instagram.com/mrsabigul)
+- [Clairefontaine Goldline Mixed Media Sketchbook in Large Landscape](https://www.jacksonsart.com/en-us/goldline-mixed-media-art-journal-a5-30-sheets-180gsm-natura)
+- [@JobsJournal](https://www.youtube.com/@JobsJournal)
+- [@AbbeySy](https://www.youtube.com/@AbbeySy)
+- [Up](https://www.disneyplus.com/browse/entity-f820c0a3-e646-4b75-8dd1-87f6d776c32b)
+
+**Page 56 & 57**
+- [@jillkane25](https?//www.instagram.com/jillkane25)
+- [@callingfeather](https://instagram.com/callingfeather)
+- [The 100 Day Project](https://www.the100dayproject.org/)
+- [@debbiefongdraws](https://www.instagram.com/debbiefongdraws/)
+- [Debbie's 2025 Hourly Comic Day comic](https://www.instagram.com/p/DFn6fXkxxa8/)
+- [Inktober](inktober.com)
+- [@100days200cats](https://www.instagram.com/100days200cats)
+
+
+**Page 58**
+- 
+
 
 🚧 This page is under construction!! Check back tomorrow and it should be finished :D 🚧
