@@ -174,16 +174,22 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [Uniball One](https://www.jetpens.com/Uni-ball-One-Gel-Pens/ct/6502)
 - [Sailor Pro Gear](https://yosekastationery.com/collections/sailor-pro-gear-fountain-pens)
 
-**Page 44**
+**Page 44 & 45**
 - [Reytorra shop](https://reytorra.com/)
 - [Reytorra Comfort food sticker sheet](https://reytorra.com/products/comfort-food-dog-stickers)
 - [@reytorra Instagram](https://instagram.com/reytorra)
 - [@Reytorra.Studio YouTube](https://www.youtube.com/@Reytorra.Studio)
 
-**Page 47**
+**Page 46 & 47**
+- [@house_starkers](https://instagram.com/house_starkers)
+- [@inkphyte](https://instagram.com/inkphyte)
+- [@Mrsabigul](https://instagram.com/Mrsabigul)
+- [@HereTheThea](https://instagram.com/HereTheThea)
 - [Stabilo Woody Colored Pencils](https://www.dickblick.com/items/stabilo-woody-3-in-1-pencils-assorted-set-of-18/)
 
-** 
+**Page 49**
+- [@callingfeather](https://instagram.com/callingfeather)
+- [Hobonichi Day-Free A5](https://www.jetpens.com/Hobonichi-Techo-Book-Only-Day-Free-Cousin-A5-Japanese-2025-Jan-Start/pd/44395)
 
 
 🚧 This page is under construction!! Check back tomorrow and it should be finished :D 🚧
