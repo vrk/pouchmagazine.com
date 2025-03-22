@@ -124,7 +124,18 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [Lucalab Archive Binder](https://lucalabglobal.com/collections/diary/products/a5-pvc-cover-glitter-options)
 
 **Page 33**
-- [@owo.penpal](https://www.instagram.com)
+- [@owo.penpal](https://www.instagram.com/owo.penpal)
+- [Sugar Cubed Studios](https://www.sugarcubedstudios.com/)
+
+
+**Page 34**
+- [@jillkane25](https?//www.instagram.com/jillkane25)
+- [Suatelier “The Record of Weekly” journal](https://www.sumthingsofmine.com/products/suatelier-diary-the-record-of-weekly)
+
+**Page 35**
+- [@joyletters](https://www.instagram.com/joyletters)
+- [Leuchtturm1917 B6 hardcover dot journal](https://www.leuchtturm1917.us/classic-notebooks-1.html)
+- [BGM Fluffy Rabbit Washi Tape](https://www.durunaru.com/products/fluffy-rabbit-washi-tape-foil-stamping?variant=44809730293921&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=USA&utm_content=Fluffy+Rabbit+Washi+Tape+%5BFoil+Stamping%5D&srsltid=AfmBOooAOjIfVcj0uqc78WU-JHo_Kdd6uQkTzqVo5rJ5DWBK-QyFbywnaus&gPromoCode=Spring20&gQT=1)
 
 
 🚧 This page is under construction!! Check back tomorrow (or the day after) and it should be finished :D 🚧
