@@ -43,7 +43,7 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [Superior Labor Engineer Pouch #01](https://nap-dog.com/en/products/engineer-pouch-01)
 - [Superior Labor Engineer Pouch #02](https://nap-dog.com/en/products/engineer-pouch-02)
 
-**Page 9 & 10:**
+**Page 12 & 13:**
 
 - [@shuyawns](http://instagram.com/shuyawns)
 - [Hobonichi Weeks](https://www.jetpens.com/Hobonichi-Techo-Weeks/ct/4399)
@@ -51,19 +51,24 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [TAHKO slime sticker](https://tahk0.myshopify.com/)
 - [Veetelier](https://www.veetelier.com/)
 
-**Pages 10**:
+**Pages 14**:
 - [@hamstergampoong](https://www.instagram.com/hamstergampoong/)
 - [One Over One studio store](https://www.instagram.com/oneoverone_studio_store/)
 
-**Pages 11**:
+**Pages 15**:
 - [@inkphyte](https://www.instagram.com/inkphyte/)
 - [Hobonichi Cousin](https://www.jetpens.com/Hobonichi-Techo-Cousin-A5/ct/4397)
 - [La Dolce Vita Stickers](https://www.niconeco.com/collections/la-dolce-vita)
 - [Sailor Manyo Nuts](https://www.jetpens.com/Sailor-Pro-Gear-Slim-Manyo-Fountain-Pen-Set-Chestnut-Kuri-14k-Fine-Limited-Edition/pd/44794)
 - [Uni Emott Pens](https://www.jetpens.com/search?q=uni+emott+pen&v=2)
 
+**Page 16**
+- [@jackalopejournals](https://www.instagram.com/jackalopejournals)
+- [Traveler's Notebook](https://www.baum-kuchen.net/collections/travelers-notebook-2024)
+- [Instax printer](https://instax.com/printer/)
 
-**Page 13:**
+
+**Page 18:**
 
 - [@papeletammy](https://instagram.com/papeletammy)
 - [Sailor Profit Junior x Mizutama fountain pen](https://www.etsy.com/listing/1564312920/mizutama-kohiru-sailor-1911-limited?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_us_ps-a-craft_supplies_and_tools&utm_custom1=_k_CjwKCAiAxea5BhBeEiwAh4t5K3WdLwg71J8_SKFRERhCeN69ZWrtajBqe1tINWQ0qsZiGoQUx1pOvxoCLdMQAvD_BwE_k_&utm_content=go_21500569152_167985818319_716809480726_aud-2007167693269:pla-295462056867_c__1564312920_118254256&utm_custom2=21500569152&gad_source=1&gclid=CjwKCAiAxea5BhBeEiwAh4t5K3WdLwg71J8_SKFRERhCeN69ZWrtajBqe1tINWQ0qsZiGoQUx1pOvxoCLdMQAvD_BwE)
@@ -72,5 +77,30 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [LittleLu's sushi stamp](https://thepinkyelephant.com/products/littlelu-rubber-stamp-2x4cm-sushi-tray?srsltid=AfmBOopcOM0cFOFA9jlXIIaFUok4fjaOTziaqX6gqTBwhUX7xuPi1Epr)
 - [Kurukynki travel word stamp](https://thepinkyelephant.com/products/kurukynki-days-series-words-side-a?srsltid=AfmBOoqsyRy_YDytQm3t4T4UzNfTbg7H5OV66hJ70_JlG4EsF_wbnuBy)
 - [Papier Platz melon cream soda bear sticker](https://kuboandlucy.com/products/papier-platz-dessert-sticker-sheet?_pos=17&_sid=41410eb9a&_ss=r)
+
+**Page 20**
+
+- [@ashmademe][https://instagram.com/ashmademe]
+- [Hobonichi A6](https://www.jetpens.com/Hobonichi-Techo-Book-Only-Original-A6-English-Monday-Start-Week-2025-Jan-Start/pd/44387)
+- [Ash's shop - ashmade.me](https://ashmade.me/)
+- [Curious corvids](https://ashmade.me/products/curious-corvids-sticker-sheet-matte-vinyl)
+- [Spooky Season Mugobunni](https://mugobunni.com/collections/halloween/products/spooky-season-mugobunni-sticker-sheet)
+- [Lin Chia Ning Collage Papers](https://yosekastationery.com/products/lcn-collage-paper-pad)
+
+
+**Page 22**
+
+- [SEE YOU Substack](https://cyoo.substack.com/)
+- [@carolynyoo](https://www.instagram.com/carolynyoo/)
+- [carolynyoo.com](https://carolynyoo.com/)
+
+**Page 24**
+
+- [shop.carolynyoo.com](https://shop.carolynyoo.com)
+- [Nice/Lisbon Sketchbook 2024](https://cyoo.gumroad.com/l/nice-lisbon-sketchbook?layout=profile)
+
+**Page 26**
+
+
 
 🚧 This page is under construction!! Check back tomorrow (or the day after) and it should be finished :D 🚧
