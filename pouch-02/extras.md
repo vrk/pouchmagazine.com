@@ -169,7 +169,6 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [@linchianing](https://instagram.com/linchianing)
 - [@eric_smallthings](https://instagram.com/eric_smallthings)
 - [@littlelu_lu](https://instagram.com/littlelu_lu)
-
 - [Muji 0.38](https://www.muji.us/products/gel-ink-cap-type-ballpoint-pen-set-10-pieces-set-9a63)
 - [Uniball One](https://www.jetpens.com/Uni-ball-One-Gel-Pens/ct/6502)
 - [Sailor Pro Gear](https://yosekastationery.com/collections/sailor-pro-gear-fountain-pens)
