@@ -80,7 +80,7 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 
 **Page 20**
 
-- [@ashmademe][https://instagram.com/ashmademe]
+- [@ashmademe](https://instagram.com/ashmademe)
 - [Hobonichi A6](https://www.jetpens.com/Hobonichi-Techo-Book-Only-Original-A6-English-Monday-Start-Week-2025-Jan-Start/pd/44387)
 - [Ash's shop - ashmade.me](https://ashmade.me/)
 - [Curious corvids](https://ashmade.me/products/curious-corvids-sticker-sheet-matte-vinyl)
@@ -247,6 +247,3 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [@nikki.kaigi](https://instagram.com/nikki.kaigi)
 - [@reytorra](https://instagram.com/reytorra)
 - [Pouch Issue 2 feedback survey](https://afkv6t1wxkk.typeform.com/to/YoiVzUlF)
-
-
-🚧 This page is under construction!! Check back tomorrow and it should be finished :D 🚧
