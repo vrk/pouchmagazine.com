@@ -137,5 +137,22 @@ Anything I missed? Feel free to email [hello@pouchmagazine.com](mailto:hello@pou
 - [Leuchtturm1917 B6 hardcover dot journal](https://www.leuchtturm1917.us/classic-notebooks-1.html)
 - [BGM Fluffy Rabbit Washi Tape](https://www.durunaru.com/products/fluffy-rabbit-washi-tape-foil-stamping?variant=44809730293921&currency=USD&utm_source=google&utm_medium=organic&utm_campaign=USA&utm_content=Fluffy+Rabbit+Washi+Tape+%5BFoil+Stamping%5D&srsltid=AfmBOooAOjIfVcj0uqc78WU-JHo_Kdd6uQkTzqVo5rJ5DWBK-QyFbywnaus&gPromoCode=Spring20&gQT=1)
 
+**Page 38**
+- [@house_starkers](https://www.instagram.com/house_starkers)
+- [note.com date sheets](https://note.com/hashtag/%E6%97%A5%E4%BB%98%E3%82%B7%E3%83%BC%E3%83%88)
+- [@poet_non](https://www.instagram.com/poet_non/?hl=en)
+- [@poet_non April 2023 date sheet](https://note.com/poet_non/n/n6e943e51bbb8)
+  - Oops we wrote "April 2024," but it's actually 2023!
+- [@aio38](https://www.instagram.com/aio38)
+- [@aio38 Sushi Dog date sheet](https://note.com/aio38/n/n94586484edb7)
+- [Buttercrafts](https://buttercrafts.com/)
 
-🚧 This page is under construction!! Check back tomorrow (or the day after) and it should be finished :D 🚧
+**Page 42**
+
+**Page 47**
+- [Stabilo Woody Colored Pencils](https://www.dickblick.com/items/stabilo-woody-3-in-1-pencils-assorted-set-of-18/)
+
+** 
+
+
+🚧 This page is under construction!! Check back tomorrow and it should be finished :D 🚧
