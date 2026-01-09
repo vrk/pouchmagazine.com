@@ -23,7 +23,7 @@ We are considering **Planner and Journal Layout submissions** for these two cate
 Please fill out this form to submit to Pouch Issue 3:
 
 - ➡️ <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeUWxnjORNH6uIURUBZsky8UNFfqCXwdaeU_uVF-SthBo-qCA/viewform?usp=dialog" target="_blank">Pouch Issue 3 Call for Submissions form</a></strong>
-- NOTE: You will have to be signed into a Google account to submit this form, so it may prompt you to log in Google when you open the from. This is because Google Forms requires sign-in for file uploads! Send an email to `victoriakirst@gmail.com` if you're having trouble.
+- NOTE: You will have to be signed into a Google account, so it may prompt you to log in Google when you open the from. This is because Google Forms requires sign-in for file uploads! Send an email to `victoriakirst@gmail.com` if you're having trouble.
 
 You may fill out the form multiple times if you’d like to submit multiple entries.
 
