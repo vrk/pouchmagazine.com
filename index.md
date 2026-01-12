@@ -18,7 +18,10 @@ skipPouchLogo: true
           <div class="pouch-scene-title"></div>
         </a>
         <div class="pouch-scene-subtitle">
-          <a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank" class="start-unlined">Issue Two is out now!</a>
+          <a href="https://shop.pouchmagazine.com/b/preorder-issue-3" target="_blank" class="start-unlined">Preorder Issue 3!</a>
+          <div class="subtitle-subtitle"> 
+            <a href="/pouch-03/submit" class="start-unlined">Call for Submissions</a>
+          </div>
         </div>
         <div class="pouch-scene-rope"></div>
       </div>
@@ -32,7 +35,7 @@ skipPouchLogo: true
     <div class="floor-scene">
       <div class="bunny-sit"></div>
       <div class="floor-featuring">
-        <p>Featuring:</p>
+        <p><a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank" class="start-unlined">Pouch Issue 2</a> features:</p>
         <div class="feature-table">
           <div class="feature-item">
             <div class="feature-icon">
@@ -103,13 +106,22 @@ skipPouchLogo: true
   <div class="header-image"></div>
 </div>
 
-<div class="main-page-banner buy-stickers" id="submit">
+<div class="main-page-banner submit-pouch" id="submit">
   <div class="header-image-flip"></div>
   <div class="description-flip">
-    <h2>We have stickers now, too!</h2>
+    <h2>Call for Submissions to Pouch #3 open now</h2>
+    <p>Share a spread from your planner or journal, and it may be published in Pouch #3's layout gallery.</p>
+    <p class="button-banner"><a href="/pouch-03/submit" class="button">Submit to Pouch #3</a></p>
+  </div>
+</div>
+
+<div class="main-page-banner buy-stickers" id="submit">
+  <div class="description">
+    <h2>We have stickers!</h2>
     <p>Shop the sticker collection</p>
     <p class="button-banner"><a href="https://shop.pouchmagazine.com/collection/stickers" class="button">Buy Stickers</a></p>
   </div>
+  <div class="header-image"></div>
 </div>
 
 <div class="feedback">

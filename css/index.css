@@ -38,7 +38,7 @@ a.start-unlined:hover {
 }
 
 .issue2-scene .wall {
-  background-color: #FFFEF2;
+  background-color: #fffef2;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -46,7 +46,7 @@ a.start-unlined:hover {
 }
 
 .issue2-scene .floor {
-  background-color: #B1D18A;
+  background-color: #b1d18a;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -59,7 +59,7 @@ a.start-unlined:hover {
   max-width: 95%;
   height: auto;
   top: 21.2%;
-  aspect-ratio: 1400  / 510;
+  aspect-ratio: 1400 / 510;
 }
 
 .floor-scene {
@@ -68,7 +68,7 @@ a.start-unlined:hover {
   max-width: 95%;
   height: auto;
   top: 21.2%;
-  aspect-ratio: 1400  / 675;
+  aspect-ratio: 1400 / 675;
 }
 
 .prof-bunny-box {
@@ -77,7 +77,7 @@ a.start-unlined:hover {
   height: auto;
   width: 23%;
   left: 1.5%;
-  top: 17%
+  top: 17%;
 }
 
 .pouch-out-now {
@@ -98,7 +98,6 @@ a.start-unlined:hover {
   height: auto;
   aspect-ratio: 347/509;
 }
-
 
 .prof-dialogue {
   position: absolute;
@@ -131,17 +130,29 @@ a.start-unlined:hover {
   aspect-ratio: 300/97;
   width: 61.5%;
   height: auto;
-  margin: auto
+  margin: auto;
 }
 
 .pouch-scene-subtitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   font-family: "Gaegu", sans-serif;
   font-size: clamp(10px, 3vw, 34px);
   font-weight: normal;
   position: relative;
-  top: -6%;
+  top: -7%;
   margin: auto;
   text-align: center;
+}
+
+.pouch-scene-subtitle .subtitle-subtitle {
+  font-size: clamp(10px, 3vw, 22px);
+}
+
+.pouch-scene-subtitle .subtitle-subtitle::before {
+  content: "Contribute to the issue: ";
 }
 
 .pouch-scene-rope {
@@ -157,7 +168,8 @@ a.start-unlined:hover {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 0;
+  /* bottom: 0; */
+  bottom: -5%;
 }
 
 .shop-door-open {
@@ -187,7 +199,6 @@ a.start-unlined:hover {
   height: auto;
 }
 
-
 .bunny-sit {
   position: absolute;
   top: 26%;
@@ -199,7 +210,6 @@ a.start-unlined:hover {
   width: 20.5%;
   height: auto;
 }
-
 
 .bunny-stand {
   position: absolute;
@@ -226,7 +236,7 @@ a.start-unlined:hover {
 .floor-featuring p {
   font-family: "Gaegu", sans-serif;
   font-weight: normal;
-  font-size: clamp(10px, 3vw, 34px);
+  font-size: clamp(10px, 3vw, 28px);
   margin: 0 auto;
   margin-bottom: 1%;
   text-align: center;
@@ -263,7 +273,7 @@ a.start-unlined:hover {
 }
 
 .feature-caption {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Gaegu", sans-serif;
   font-size: clamp(10px, 1.5vw, 22px);
   text-align: center;
   line-height: 1;
@@ -279,17 +289,17 @@ a.start-unlined:hover {
 
 .stationery-reviews {
   background-image: url(/images/issue2/carousel-stationeryreviews.png);
-  height:70%;
+  height: 70%;
 }
 
 .pouch-reviews {
   background-image: url(/images/issue2/carousel-pouch.png);
-  height:60%;
+  height: 60%;
 }
 
 .interview {
   background-image: url(/images/issue2/carousel-interview.png);
-  height:90%;
+  height: 90%;
 }
 
 .gallery {
@@ -341,7 +351,7 @@ a.layout-gallery-link {
 }
 
 a.layout-gallery-link .callout {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Gaegu", sans-serif;
   font-size: 52px;
   width: 50%;
   text-align: center;
@@ -384,7 +394,7 @@ a.layout-gallery-link .callout {
 }
 
 .buy-pouch-issue-1 .button-banner {
-  background-color: #FFC3D7;
+  background-color: #ffc3d7;
 }
 
 .buy-2025-subscription .header-image {
@@ -392,22 +402,22 @@ a.layout-gallery-link .callout {
 }
 
 .buy-2025-subscription .button-banner {
-  background-color: #B1EA68;
+  background-color: #b1ea68;
 }
 
 .submit-hot-take .header-image {
-  background-color: #FFBB00;
+  background-color: #ffbb00;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .submit-hot-take .button-banner {
-  background-color: #D29A00;
+  background-color: #d29a00;
 }
 
 .buy-classified-ad .header-image {
-  background-color: #80E4FF;
+  background-color: #80e4ff;
   display: grid;
   grid-template-columns: 1.25fr 2fr;
   justify-items: center;
@@ -415,7 +425,7 @@ a.layout-gallery-link .callout {
 }
 
 .buy-classified-ad .button-banner {
-  background-color: #2DD2FF;
+  background-color: #2dd2ff;
 }
 
 .buy-classified-ad .ad-copy {
@@ -445,24 +455,29 @@ a.layout-gallery-link .callout {
 }
 
 .main-page-banner .description {
-  padding: 50px;
+  text-align: center;
   border-radius: 25px 0 0 25px;
 }
 
-.main-page-banner .header-image {
+.main-page-banner .description-flip {
   border-radius: 0 25px 25px 0;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
 }
 
-.main-page-banner .description-flip {
+.main-page-banner .description-flip,
+.main-page-banner .description {
   padding: 50px;
+}
+
+.main-page-banner .header-image {
   border-radius: 0 25px 25px 0;
 }
 
 .main-page-banner .header-image-flip {
   border-radius: 25px 0 0 25px;
+}
+
+.main-page-banner .header-image,
+.main-page-banner .header-image-flip {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -475,34 +490,38 @@ a.layout-gallery-link .callout {
   margin-top: 1.5em;
 }
 
-.main-page-banner.buy-pouch .description {
-  background-color: #FFE95E;
-  text-align: center;
-}
-
-.main-page-banner.buy-pouch .description p {
-  max-width: 350px;
+.main-page-banner .description h2,
+.main-page-banner .description-flip h2,
+.main-page-banner .description p,
+.main-page-banner .description-flip p {
+  text-wrap: balance;
   margin-left: auto;
   margin-right: auto;
+}
+
+.main-page-banner.submit-pouch .description-flip {
+  background-color: #ffdce7;
+}
+
+.main-page-banner.submit-pouch .header-image-flip {
+  background-image: url(/images/issue3/layout-gallery.jpeg);
+  background-size: contain;
+  background-color: #e7c9ab;
+}
+
+.main-page-banner.buy-pouch .description {
+  background-color: #ffe95e;
 }
 
 .main-page-banner.buy-pouch .header-image {
   background-image: url(/images/issue2/pouch-photo.png);
 }
 
-.main-page-banner.buy-stickers .description-flip {
-  background-color: #CCF3F9;
-  text-align: center;
+.main-page-banner.buy-stickers .description {
+  background-color: #ccf3f9;
 }
 
-.main-page-banner.buy-stickers .description-flip p,
-.main-page-banner.buy-stickers .description-flip h2 {
-  max-width: 350px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.main-page-banner.buy-stickers .header-image-flip {
+.main-page-banner.buy-stickers .header-image {
   background-image: url(/images/issue2/karaoke-stickers.jpg);
 }
 
@@ -530,7 +549,7 @@ a.layout-gallery-link .callout {
 .feedback {
   padding: 15px 42px;
   background-color: white;
-  border: 2px solid #FFDD80;
+  border: 2px solid #ffdd80;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -547,7 +566,7 @@ a.layout-gallery-link .callout {
   height: 200px;
 }
 
-@media (max-width: 900px) { 
+@media (max-width: 900px) {
   .intro {
     flex-direction: column;
     gap: 50px;
@@ -575,56 +594,56 @@ a.layout-gallery-link .callout {
     grid-template-rows: 1fr 1fr;
   }
 
-.main-page-banner .description,
-.main-page-banner .description-flip {
-  font-size: 20px;
-  padding: 20px;
-  width: 100%;
-  border-radius: 0 0 25px 25px;
-  order: 1;
-}
+  .main-page-banner .description,
+  .main-page-banner .description-flip {
+    font-size: 20px;
+    padding: 20px;
+    width: 100%;
+    border-radius: 0 0 25px 25px;
+    order: 1;
+  }
 
-.main-page-banner .description-flip h2,
-.main-page-banner .description h2 {
-  margin: 0.25em 0;
-}
+  .main-page-banner .description-flip h2,
+  .main-page-banner .description h2 {
+    margin: 0.25em 0;
+  }
 
-.main-page-banner .button-banner {
-  margin: 0.25em 0;
-}
+  .main-page-banner .button-banner {
+    margin: 0.25em 0;
+  }
 
-.main-page-banner .credit {
-  bottom: unset;
-  top: -20px;
-}
+  .main-page-banner .credit {
+    bottom: unset;
+    top: -20px;
+  }
 
-.main-page-banner .header-image,
-.main-page-banner .header-image-flip {
-  width: 100%;
-  border-radius: 25px 25px 0 0;
-  order: -1;
-}
+  .main-page-banner .header-image,
+  .main-page-banner .header-image-flip {
+    width: 100%;
+    border-radius: 25px 25px 0 0;
+    order: -1;
+  }
 
-.buy-classified-ad .header-image {
-  height: unset;
-  min-height: 325px;
-  grid-template-columns: 1fr;
-}
+  .buy-classified-ad .header-image {
+    height: unset;
+    min-height: 325px;
+    grid-template-columns: 1fr;
+  }
 
-.buy-classified-ad .header-image > div {
-  gap: 5px;
-}
+  .buy-classified-ad .header-image > div {
+    gap: 5px;
+  }
 
-.buy-classified-ad .add-image {
-  order: 1;
-  padding: 20px;
-}
+  .buy-classified-ad .add-image {
+    order: 1;
+    padding: 20px;
+  }
 
-.buy-classified-ad .ad-copy {
-  padding: 0 50px;
-  padding-bottom: 40px;
-  order: 2;
-}
+  .buy-classified-ad .ad-copy {
+    padding: 0 50px;
+    padding-bottom: 40px;
+    order: 2;
+  }
 
   a.layout-gallery-link {
     height: 400px;
@@ -674,6 +693,7 @@ a.layout-gallery-link .callout {
   .pouch-scene-rope {
     width: 70%;
     left: 23%;
+    bottom: 0;
   }
 
   .pouch-scene-title {
@@ -681,7 +701,17 @@ a.layout-gallery-link .callout {
   }
 
   .pouch-scene-subtitle {
+    top: -7.5%;
     font-size: clamp(10px, 6vw, 34px);
+    line-height: 1.1;
+  }
+
+  .pouch-scene-subtitle .subtitle-subtitle {
+    font-size: clamp(12px, 4vw, 22px);
+  }
+
+  .pouch-scene-subtitle .subtitle-subtitle::before {
+    content: "Contribute: ";
   }
 
   .floor-scene {
@@ -712,7 +742,7 @@ a.layout-gallery-link .callout {
     width: 100%;
     /* background: none; */
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 33% 33% 34%; 
+    grid-template-rows: 33% 33% 34%;
     aspect-ratio: 700 / 1100;
     /* padding: 0 1em;
     gap: 1em; */
