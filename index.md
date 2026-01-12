@@ -18,7 +18,11 @@ skipPouchLogo: true
           <div class="pouch-scene-title"></div>
         </a>
         <div class="pouch-scene-subtitle">
-          <a href="https://shop.pouchmagazine.com/b/preorder-issue-3" target="_blank" class="start-unlined">Preorders for Issue #3 open now!</a>
+          <a href="https://shop.pouchmagazine.com/b/preorder-issue-3" target="_blank" class="start-unlined">Preorder Issue 3!</a>
+          <div class="subtitle-subtitle"> 
+            Contribute to the issue: 
+            <a href="/pouch-03/submit" target="_blank" class="start-unlined">Call for Submissions</a>
+          </div>
         </div>
         <div class="pouch-scene-rope"></div>
       </div>
@@ -32,7 +36,7 @@ skipPouchLogo: true
     <div class="floor-scene">
       <div class="bunny-sit"></div>
       <div class="floor-featuring">
-        <p><a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank">Pouch Issue 2</a> features:</p>
+        <p><a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank" class="start-unlined">Pouch Issue 2</a> features:</p>
         <div class="feature-table">
           <div class="feature-item">
             <div class="feature-icon">

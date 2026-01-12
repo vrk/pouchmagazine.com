@@ -134,13 +134,21 @@ a.start-unlined:hover {
 }
 
 .pouch-scene-subtitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   font-family: "Gaegu", sans-serif;
   font-size: clamp(10px, 3vw, 34px);
   font-weight: normal;
   position: relative;
-  top: -6%;
+  top: -7%;
   margin: auto;
   text-align: center;
+}
+
+.pouch-scene-subtitle .subtitle-subtitle {
+  font-size: clamp(10px, 3vw, 22px);
 }
 
 .pouch-scene-rope {
@@ -156,7 +164,8 @@ a.start-unlined:hover {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 0;
+  /* bottom: 0; */
+  bottom: -5%;
 }
 
 .shop-door-open {
@@ -223,7 +232,7 @@ a.start-unlined:hover {
 .floor-featuring p {
   font-family: "Gaegu", sans-serif;
   font-weight: normal;
-  font-size: clamp(10px, 3vw, 34px);
+  font-size: clamp(10px, 3vw, 28px);
   margin: 0 auto;
   margin-bottom: 1%;
   text-align: center;
@@ -493,7 +502,7 @@ a.layout-gallery-link .callout {
 .main-page-banner.submit-pouch .header-image-flip {
   background-image: url(/images/issue3/layout-gallery.jpeg);
   background-size: contain;
-  background-color: #e7c9ab;
+  background-color: #e7c9ab ;
 }
 
 .main-page-banner.buy-pouch .description {
@@ -680,6 +689,7 @@ a.layout-gallery-link .callout {
   .pouch-scene-rope {
     width: 70%;
     left: 23%;
+    bottom: 0;
   }
 
   .pouch-scene-title {
@@ -688,6 +698,10 @@ a.layout-gallery-link .callout {
 
   .pouch-scene-subtitle {
     font-size: clamp(10px, 6vw, 34px);
+  }
+
+  .pouch-scene-subtitle .subtitle-subtitle {
+    font-size: clamp(10px, 6vw, 22x);
   }
 
   .floor-scene {
