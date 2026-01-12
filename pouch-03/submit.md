@@ -20,7 +20,7 @@ We are considering **Planner and Journal Layout submissions** for these two cate
 
 ## How to submit
 
-Please fill out this form to submit to Pouch Issue 3:
+Please read through our <a href="#submission-criteria">submission criteria</a> first, then fill out this form to submit to Pouch Issue 3:
 
 - ➡️ <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSeUWxnjORNH6uIURUBZsky8UNFfqCXwdaeU_uVF-SthBo-qCA/viewform?usp=dialog" target="_blank">Pouch Issue 3 Call for Submissions form</a></strong>
 - NOTE: You will have to be signed into a Google account, so it may prompt you to log into Google when you open the form. (This is because Google Forms requires sign-in for forms with file uploads!) Send an email to `victoriakirst@gmail.com` if you're having trouble.
@@ -31,7 +31,7 @@ Submissions will close on **February 9, 2026 11:59pm Pacific Time**, and results
 
 **Compensation:** If your submission is accepted for Pouch Issue 3, you will get a free digital and physical copy of the magazine!
 
-## Submission criteria
+<h2 id="submission-criteria">Submission criteria</h2>
 
 **Send us planner and journal layouts you made yourself**, i.e. don’t send in an Instagram post of someone else’s journal you really admire. Pouch only publishes content we have permission to publish!
 
