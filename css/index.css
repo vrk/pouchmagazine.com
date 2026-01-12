@@ -151,6 +151,10 @@ a.start-unlined:hover {
   font-size: clamp(10px, 3vw, 22px);
 }
 
+.pouch-scene-subtitle .subtitle-subtitle::before {
+  content: "Contribute to the issue: ";
+}
+
 .pouch-scene-rope {
   background-image: url(/images/issue2/red-rope.png);
   background-size: contain;
@@ -502,7 +506,7 @@ a.layout-gallery-link .callout {
 .main-page-banner.submit-pouch .header-image-flip {
   background-image: url(/images/issue3/layout-gallery.jpeg);
   background-size: contain;
-  background-color: #e7c9ab ;
+  background-color: #e7c9ab;
 }
 
 .main-page-banner.buy-pouch .description {
@@ -701,7 +705,11 @@ a.layout-gallery-link .callout {
   }
 
   .pouch-scene-subtitle .subtitle-subtitle {
-    font-size: clamp(10px, 6vw, 22x);
+    font-size: clamp(12px, 4vw, 22px);
+  }
+
+  .pouch-scene-subtitle .subtitle-subtitle::before {
+    content: "Contribute: ";
   }
 
   .floor-scene {
