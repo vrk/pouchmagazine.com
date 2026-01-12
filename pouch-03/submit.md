@@ -15,8 +15,8 @@ Here is an example of how this looked in Pouch Issue #2:
 
 We are considering **Planner and Journal Layout submissions** for these two categories:
 
-- **Good for a beginner:** Send us your planner or journal layouts that you think might be good  for beginners to try! These are layouts you might recommend to someone who is about to try out journaling or planning for the very first time, someone who has had a tough time using their journals or planners, or anyone who is looking for journaling or planner ideas that are easy to follow yet still interesting to look back on after the year is over.
-- **Good for the experienced:** Send us your planner or journal layouts that you think would interest experienced analog lovers! These are layouts you might recommend to someone who has used a planner or journal for years. Maybe you’ve got an intricate journal layout that takes more time commitment to do regularly, but the pay off is worth it. Maybe you have a fairly straightforward planner system, but it has “just worked” for you for years and you think a fellow planner nerd would appreciate hearing about it. Or maybe you have a weird & experimental layout that would inspire analog veterans to switch things up!
+- **Good for a beginner:** Send us your planner or journal layouts that you think might be good  for beginners to try! These are layouts you might recommend to someone who is about to try out journaling or planning for the very first time, someone who has had a tough time using their journals or planners in the past, or anyone who is looking for journaling or planner ideas that are easy to follow yet still interesting to look back on after the year is over.
+- **Good for the experienced:** Send us your planner or journal layouts that you think would interest experienced analog lovers! These are layouts you might recommend to someone who has used a planner or journal for years. Maybe you’ve got an intricate journal layout that takes more time commitment to do regularly, but the pay off is worth it. Maybe you have a fairly straightforward planner system, but it has “just worked” for you and you think a fellow planner nerd would appreciate hearing about it. Or maybe you have a weird & experimental layout that would inspire analog veterans to switch things up!
 
 ## How to submit
 
@@ -29,7 +29,7 @@ You may fill out the form multiple times if you’d like to submit multiple entr
 
 Submissions will close on **February 9, 2026 11:59pm Pacific Time**, and results will be emailed out around late March.
 
-If your submission is accepted for Pouch Issue 3, you will get a free digital and physical copy of the magazine!
+**Compensation:** If your submission is accepted for Pouch Issue 3, you will get a free digital and physical copy of the magazine!
 
 ## Submission criteria
 
