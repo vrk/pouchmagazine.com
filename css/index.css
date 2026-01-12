@@ -701,7 +701,9 @@ a.layout-gallery-link .callout {
   }
 
   .pouch-scene-subtitle {
+    top: -7.5%;
     font-size: clamp(10px, 6vw, 34px);
+    line-height: 1.1;
   }
 
   .pouch-scene-subtitle .subtitle-subtitle {
