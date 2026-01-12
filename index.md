@@ -20,7 +20,7 @@ skipPouchLogo: true
         <div class="pouch-scene-subtitle">
           <a href="https://shop.pouchmagazine.com/b/preorder-issue-3" target="_blank" class="start-unlined">Preorder Issue 3!</a>
           <div class="subtitle-subtitle"> 
-            <a href="/pouch-03/submit" target="_blank" class="start-unlined">Call for Submissions</a>
+            <a href="/pouch-03/submit" class="start-unlined">Call for Submissions</a>
           </div>
         </div>
         <div class="pouch-scene-rope"></div>
