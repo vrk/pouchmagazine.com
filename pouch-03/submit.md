@@ -35,7 +35,7 @@ Submissions will close on **February 9, 2026 11:59pm Pacific Time**, and results
 
 **Send us planner and journal layouts you made yourself**, i.e. don’t send in an Instagram post of someone else’s journal you really admire. Pouch only publishes content we have permission to publish!
 
-**Physical journals and planners only.** We love our digital organization tools tools, but the Pouch layout gallery is a celebration of paper! Your submission to the Pouch layout gallery should be a physical notebook.
+**Physical journals and planners only.** We love our digital organization tools, but the Pouch layout gallery is a celebration of paper! Your submission to the Pouch layout gallery should be a physical notebook.
 
 **Include helpful information for anyone who wants to replicate your layout or try out your journaling/planning system.** Pouch readers love perusing the layout gallery for inspiration for their own journals and planners! Include information you think would be helpful to someone who might be trying to replicate a similar layout or system for themselves.
 
