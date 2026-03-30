@@ -7,6 +7,9 @@ stylesheet: /css/submit-p3.css
 
 ## Pouch Issue #3 Call for Submissions
 
+**SUBMISSIONS NOW CLOSED. Thank you so much for your interest! 💖**
+
+
 Share one of your favorite journaling layouts or planner spreads with Pouch, and we may include it in the layout gallery for Issue #3!
 
 Here is an example of how this looked in Pouch Issue #2:
@@ -27,7 +30,7 @@ Please read through our <a href="#submission-criteria">submission criteria</a> f
 
 You may fill out the form multiple times if you’d like to submit multiple entries.
 
-Submissions will close on **February 9, 2026 11:59pm Pacific Time**, and results will be emailed out around late March.
+Submissions will close on **February 9, 2026 11:59pm Pacific Time**, and results will be emailed out around ~~late March~~ late April 2026. ([More details on timeline here!](https://vrklovespaper.substack.com/i/192406517/submissions-youll-back-in-midlate-april-oooor-later-if-im-stuck-on-designs))
 
 **Compensation:** If your submission is accepted for Pouch Issue 3, you will get a free digital and physical copy of the magazine!
 
