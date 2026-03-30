@@ -148,11 +148,11 @@ a.start-unlined:hover {
 }
 
 .pouch-scene-subtitle .subtitle-subtitle {
-  font-size: clamp(10px, 3vw, 22px);
+  font-size: clamp(9px, 3vw, 22px);
 }
 
 .pouch-scene-subtitle .subtitle-subtitle::before {
-  content: "Contribute to the issue: ";
+  content: "";
 }
 
 .pouch-scene-rope {
@@ -711,7 +711,7 @@ a.layout-gallery-link .callout {
   }
 
   .pouch-scene-subtitle .subtitle-subtitle::before {
-    content: "Contribute: ";
+    content: "";
   }
 
   .floor-scene {
