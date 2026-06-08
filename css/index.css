@@ -65,19 +65,42 @@
 
 .header-box {
   position: relative;
-  width: 1200px;
+  width: 66%;
   height: 100%;
 }
 
 .pouch-title-box {
   position: absolute;
-  width: 45%;
+  width: 43%;
   top: 50%;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .pouch-title {
   background-image: url(/images/issue3/pouch-3-title.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 300 / 97;
+  aspect-ratio: 300 / 82;
+  width: 100%;
+}
+
+.pouch-subtitle {
+  text-align: center;
+  font-family: "Gaegu", sans-serif;
+  font-size: clamp(10px, 3vw, 34px);
+}
+
+.bunny {
+  position: absolute;
+  top: 10%;
+  right: 0;
+  background-image: url(/images/issue3/pouch-journaling-header.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 1074 / 956;
+  width: 55%;
 }
