@@ -27,7 +27,6 @@ isHome: true
               </div>
             </div>
             <div class="bunny">
-              <!-- <div class="dialogue"></div> -->
             </div>
           </div>
         </div>

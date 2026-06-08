@@ -117,7 +117,6 @@
   width: 21%;
 }
 
-
 .skybunny-box {
   position: absolute;
   top: 0%;
@@ -161,10 +160,14 @@
     top: 0;
     transform: scaleX(1);
   }
-  12%, 37%, 62%, 87% {
+  12%,
+  37%,
+  62%,
+  87% {
     top: 4%;
   }
-  25%, 75% {
+  25%,
+  75% {
     top: 0;
   }
   50% {
@@ -179,5 +182,42 @@
     top: 0;
     right: -8%;
     transform: scaleX(-1);
+  }
+}
+
+@media (max-width: 900px) {
+  .skybunny-box {
+    display: none;
+  }
+
+  .pouch-title-box {
+    width: 80%;
+    left: 10%;
+    top: 5%;
+  }
+
+  .bunny {
+    width: 90%;
+    bottom: 0;
+    right: -10%;
+    top: unset;
+  }
+
+  .header-box {
+    width: 90%;
+  }
+
+  .main-scene,
+  .mountain-bg {
+    aspect-ratio: 800 / 825;
+  }
+
+  .mountain-bg {
+    background-size: 200%;
+    background-position: 41% -150%;
+  }
+
+  .pouch-subtitle {
+    font-size: clamp(10px, 6vw, 28px);
   }
 }
