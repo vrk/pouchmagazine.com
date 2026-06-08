@@ -7,7 +7,7 @@
 }
 
 .issue3-scene .wall {
-  background-color: #fffef2;
+  background-color: #00D0FF;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -16,21 +16,41 @@
 
 .main-scene {
   position: relative;
-  width: 1400px;
-  max-width: 95%;
+  width: 1988px;
+  max-width: 100%;
   height: auto;
   top: 21.2%;
-  aspect-ratio: 1400 / 510;
+  aspect-ratio: 1988 / 900;
 }
 
 .mountain-bg {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  background-image: url(/images/issue2/profbunny.png);
+  margin: auto;
+  background-image: url(/images/issue3/header.png);
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 550 / 734;
-  width: 15%;
+  aspect-ratio: 1988 / 900;
+  width: 100%;
   height: auto;
+}
+
+.mountain-bg-left {
+  position: absolute;
+  left: 0;
+  width: 15%;
+  height: 100%;
+  aspect-ratio: 45 / 900;
+  background-image: url(/images/issue3/header-repeat-left.png);
+  background-size: contain;
+  background-repeat: repeat-x;
+}
+
+.mountain-bg-right {
+  position: absolute;
+  right: 0;
+  width: 10%;
+  height: 100%;
+  aspect-ratio: 25 / 900;
+  background-image: url(/images/issue3/header-repeat-right.png);
+  background-size: contain;
+  background-repeat: repeat-x;
 }

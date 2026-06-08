@@ -8,6 +8,8 @@ isHome: true
 ---
 <div class="issue3-scene hero">
   <div class="wall">
+    <div class="mountain-bg-left"></div>
+    <div class="mountain-bg-right"></div>
     <div class="main-scene">
       <div class="mountain-bg"></div>
     </div>

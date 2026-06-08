@@ -211,7 +211,7 @@ main.page {
 
 main.home {
   flex-grow: 1;
-  background-color: #96D600;
+  background-color: #a4d400;
 }
 
 @media (max-width: 900px) { 
