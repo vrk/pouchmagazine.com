@@ -33,7 +33,7 @@ header, footer, .button {
 }
 
 header {
-  background-color: #FFFEF2;
+  background-color: #00D0FF;
   font-family: "Gaegu", sans-serif;
   font-size: 36px;
   width: 100%;
@@ -205,8 +205,13 @@ main > div:not(.hero) {
   margin-right: auto;
 }
 
-main {
+main.page {
   margin-bottom: 150px;
+}
+
+main.home {
+  flex-grow: 1;
+  background-color: #96D600;
 }
 
 @media (max-width: 900px) { 
