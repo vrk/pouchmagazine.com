@@ -13,16 +13,21 @@ isHome: true
     <div class="mountain-bg-right"></div>
     <div class="main-scene">
       <div class="mountain-bg">
+      <div class="skybunny-box">
+        <div class="skybunny"></div>
+        <div class="balloon"></div>
+      </div>
         <div class="center-stage">
           <div class="header-box">
             <div class="pouch-title-box">
               <div class="pouch-title">
               </div>
               <div class="pouch-subtitle">
-                Issue 3 is out now!
+                Issue 3 out now!
               </div>
             </div>
             <div class="bunny">
+              <!-- <div class="dialogue"></div> -->
             </div>
           </div>
         </div>

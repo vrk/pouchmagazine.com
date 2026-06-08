@@ -20,15 +20,16 @@
   max-width: 100%;
   height: auto;
   top: 21.2%;
-  aspect-ratio: 1988 / 900;
+  aspect-ratio: 1571 / 900;
 }
 
 .mountain-bg {
   margin: auto;
   background-image: url(/images/issue3/header.png);
+  background-color: #00d0ff;
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 1988 / 900;
+  aspect-ratio: 1571 / 900;
   width: 100%;
   height: auto;
 }
@@ -36,7 +37,7 @@
 .mountain-bg-left {
   position: absolute;
   left: 0;
-  width: 15%;
+  width: 50%;
   height: 100%;
   background-image: url(/images/issue3/header-repeat-left.png);
   background-size: contain;
@@ -46,7 +47,7 @@
 .mountain-bg-right {
   position: absolute;
   right: 0;
-  width: 10%;
+  width: 50%;
   height: 100%;
   background-image: url(/images/issue3/header-repeat-right.png);
   background-size: contain;
@@ -72,7 +73,7 @@
 .pouch-title-box {
   position: absolute;
   width: 43%;
-  top: 50%;
+  top: 46.5%;
   left: 0;
   display: flex;
   flex-direction: column;
@@ -103,4 +104,80 @@
   background-repeat: no-repeat;
   aspect-ratio: 1074 / 956;
   width: 55%;
+}
+
+.dialogue {
+  position: absolute;
+  top: -3%;
+  left: 26.5%;
+  background-image: url(/images/issue3/dialogue.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 310 / 276;
+  width: 21%;
+}
+
+
+.skybunny-box {
+  position: absolute;
+  top: 0%;
+  right: 0;
+  width: 8%;
+
+  animation: linear infinite;
+  animation-name: run;
+  animation-duration: 500s;
+  animation-delay: -300s;
+
+  /* animation-duration: 5s; */
+  transform: scaleX(1);
+}
+
+.skybunny {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-image: url(/images/issue3/trashbunny.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 180 / 137;
+  width: 50%;
+}
+
+.balloon {
+  position: absolute;
+  top: 0;
+  left: 15%;
+  background-image: url(/images/issue3/balloon.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 43 / 103;
+  width: 15%;
+}
+
+@keyframes run {
+  0% {
+    right: -8%;
+    top: 0;
+    transform: scaleX(1);
+  }
+  12%, 37%, 62%, 87% {
+    top: 4%;
+  }
+  25%, 75% {
+    top: 0;
+  }
+  50% {
+    top: 0;
+    right: 100%;
+    transform: scaleX(1);
+  }
+  52% {
+    transform: scaleX(-1);
+  }
+  100% {
+    top: 0;
+    right: -8%;
+    transform: scaleX(-1);
+  }
 }
