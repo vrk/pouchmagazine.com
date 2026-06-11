@@ -106,17 +106,6 @@
   width: 55%;
 }
 
-.dialogue {
-  position: absolute;
-  top: -3%;
-  left: 26.5%;
-  background-image: url(/images/issue3/dialogue.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  aspect-ratio: 310 / 276;
-  width: 21%;
-}
-
 .skybunny-box {
   position: absolute;
   top: 0%;
@@ -154,6 +143,10 @@
   width: 15%;
 }
 
+.eraser {
+  display: none;
+}
+
 @keyframes run {
   0% {
     right: -8%;
@@ -188,6 +181,7 @@
 @media (max-width: 900px) {
   .skybunny-box {
     display: none;
+    /* width: 20%; */
   }
 
   .pouch-title-box {
@@ -219,5 +213,29 @@
 
   .pouch-subtitle {
     font-size: clamp(10px, 6vw, 28px);
+  }
+
+  .eraser {
+    position: absolute;
+    bottom: 17%;
+    left: 3%;
+    background-image: url(/images/issue3/eraser.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 213 / 115;
+    width: 20%;
+    transform: rotate(-10deg);
+    display: block;
+  }
+  .dialogue {
+    position: absolute;
+    top: -250%;
+    left: 0%;
+    background-image: url(/images/issue3/dialogue.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 310 / 276;
+    width: 125%;
+    transform: rotate(37deg);
   }
 }

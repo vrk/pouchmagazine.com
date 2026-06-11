@@ -28,9 +28,15 @@ isHome: true
             </div>
             <div class="bunny">
             </div>
+            <div class="eraser">
+              <div class="dialogue"></div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
+</div>
+<div id="issue3-what-is-pouch">
+  <p>Pouch is a zine for stationery and journaling lovers!</p>
 </div>
