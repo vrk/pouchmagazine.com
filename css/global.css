@@ -113,13 +113,16 @@ footer {
   margin-top: auto;
 }
 
+.center-button {
+  text-align: center;
+}
+
 a.button {
   cursor: pointer;
   display: inline-block;
-  background-color: #FF5C00;
+  background-color: #FF6400;
   color: white;
-  border: 3px solid white;
-  border-radius: 15px;
+  border-radius: 10px;
   padding: 10px 20px;
   text-decoration: none;
   font-weight: 600;

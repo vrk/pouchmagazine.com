@@ -37,7 +37,7 @@ isHome: true
     </div>
   </div>
 </div>
-<div id="issue3-look-inside-pouch">
+<div id="issue3-look-inside-pouch" class="white-card">
   <h2>Take a look inside Pouch Issue 3:</h2>
 </div>
 
@@ -63,5 +63,16 @@ isHome: true
       </div>
     </div>
     <div id="easel-bunny"></div>
+  </div>
+</div>
+
+<div id="issue3-buy-pouch-3">
+  <div id="pouch-3-cover"></div>
+  <div class="white-card">
+    <h2>Buy Pouch Issue 3</h2>
+    <p>Get the issue today! Pouch Issue 3 ships worldwide.</p>
+    <div class="center-button">
+      <a href="https://shop.pouchmagazine.com/" class="button">Buy Pouch Issue 3</a>
+    </div>
   </div>
 </div>

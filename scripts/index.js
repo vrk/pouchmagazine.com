@@ -1,7 +1,7 @@
 async function main() {
-  const easelContainerEl = document.getElementById("easel-container");
+  const spreadContainerEl = document.getElementById("spread-container");
   const topPouchEl = document.getElementById("top-pouch");
-  easelContainerEl.addEventListener("click", () => {
+  spreadContainerEl.addEventListener("click", () => {
     topPouchEl.classList.toggle("open");
   })
 }
