@@ -4,6 +4,7 @@
   justify-content: center;
   align-items: center;
   position: relative;
+  margin-bottom: 15%;
 }
 
 .issue3-scene .wall {
@@ -20,7 +21,6 @@
   max-width: 100%;
   height: auto;
   top: 21.2%;
-  aspect-ratio: 1571 / 900;
 }
 
 .mountain-bg {
@@ -29,9 +29,12 @@
   background-color: #00d0ff;
   background-size: contain;
   background-repeat: no-repeat;
-  aspect-ratio: 1571 / 900;
   width: 100%;
   height: auto;
+}
+
+.main-scene, .mountain-bg {
+  aspect-ratio: 1571 / 440;
 }
 
 .mountain-bg-left {
@@ -73,7 +76,7 @@
 .pouch-title-box {
   position: absolute;
   width: 43%;
-  top: 46.5%;
+  top: 95%;
   left: 0;
   display: flex;
   flex-direction: column;
@@ -97,7 +100,7 @@
 
 .bunny {
   position: absolute;
-  top: 10%;
+  top: 33%;
   right: 0;
   background-image: url(/images/issue3/pouch-journaling-header.png);
   background-size: contain;
@@ -146,6 +149,139 @@
 .eraser {
   display: none;
 }
+
+#issue3-look-inside-pouch {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1024px;
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 50px;
+  padding: 35px;
+  margin-bottom: 100px;
+}
+
+#issue3-look-inside-pouch h2 {
+  font-size: 34px;
+  text-align: center;
+  margin: 0;
+}
+
+#issue3-look-inside-pouch p {
+  font-size: 18pt;
+  line-height: 1.75;
+}
+
+#easel-container {
+  position: relative;
+  width: 800px;
+  aspect-ratio: 1064 / 1143;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#easel {
+  position: absolute;
+  background-image: url(/images/issue3/easel.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 1064 / 1143;
+  width: 90%;
+  left: 5%;
+}
+
+#spread-container {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  /* box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25); */
+  top: 8.5%;
+  /* transform: rotate(-0.25deg); */
+  width: 99%;
+  left: 0.5%;
+}
+
+#pouch-first-page,
+#pouch-page-flip-container {
+  width: 50%;
+}
+
+#pouch-first-page {
+  background-image: url(/images/issue3/toc-page.png);
+  background-size: cover;
+  aspect-ratio: 264 / 375;
+  background-repeat: no-repeat;
+  /* box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25); */
+}
+
+.card {
+  cursor: pointer;
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform-origin: 0% 0%;
+
+  transition: transform 1s;
+  transform-style: preserve-3d;
+}
+
+.card:hover .content {
+  transform: rotateY( -180deg );
+  transition: transform 0.5s;
+}
+
+.under-pouch-cover,
+.front,
+.back {
+  position: absolute;
+  width: 100%;
+  backface-visibility: hidden;
+  background-size: cover;
+  width: 100%;
+  aspect-ratio: 264 / 375;
+  background-repeat: no-repeat;
+}
+
+.back {
+  transform: rotateY( 180deg );
+  background-image: url(/images/issue3/toc-page3.png);
+}
+
+#top-pouch {
+  perspective: 1500px;
+  width: 100%;
+  aspect-ratio: 264 / 375;
+}
+
+.pouch,
+.pouch-cover {
+  background-image: url(/images/issue3/toc-page2.png);
+  background-size: cover;
+  width: 100%;
+  aspect-ratio: 264 / 375;
+  background-repeat: no-repeat;
+}
+
+.under-pouch-cover {
+  background-image: url(/images/issue3/toc-page4.png);
+  background-color: white;
+  background-size: cover;
+  aspect-ratio: 264 / 375;
+  width: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5%;
+  text-align: center;
+  padding: 10%;
+}
+
 
 @keyframes run {
   0% {
@@ -203,7 +339,7 @@
 
   .main-scene,
   .mountain-bg {
-    aspect-ratio: 800 / 825;
+    aspect-ratio: 800 / 440;
   }
 
   .mountain-bg {

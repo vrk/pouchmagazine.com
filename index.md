@@ -37,6 +37,28 @@ isHome: true
     </div>
   </div>
 </div>
-<div id="issue3-what-is-pouch">
-  <p>Pouch is a zine for stationery and journaling lovers!</p>
+<div id="issue3-look-inside-pouch">
+  <h2>Take a look inside Pouch Issue 3:</h2>
+</div>
+
+<div id="issue3-letter-from-editor">
+  <div id="easel-container">
+    <div id="easel"></div>
+    <div id="spread-container">
+      <div id="pouch-first-page">
+      </div>
+      <div id="pouch-page-flip-container">
+        <div id="top-pouch" class="pouch-pouch card">
+          <div class="under-pouch-cover">
+          </div>
+          <div class="content">
+            <div class="front pouch-cover">
+            </div>
+            <div class="back">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
