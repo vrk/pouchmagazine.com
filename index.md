@@ -18,6 +18,8 @@ isHome: true
         <div class="balloon"></div>
       </div>
         <div class="center-stage">
+          <div class="flower-1"></div>
+          <div class="flower-2"></div>
           <div class="header-box">
             <div class="pouch-title-box">
               <div class="pouch-title">
@@ -39,6 +41,12 @@ isHome: true
 </div>
 <div id="issue3-look-inside-pouch" class="white-card">
   <h2>Take a look inside Pouch Issue 3:</h2>
+  <video autoplay="" controls="" disablepictureinpicture="" loop="" muted="" playsinline="" preload="auto">
+      <source src="/images/issue2/flipthrough.mp4" type="video/mp4">
+    </video>
+  <p>
+  Here's a flip through some of the pages of Pouch Issue 3! In this issue, we're centering the journeys of both first-time and long-time analog enthusiasts. Pouch 3 features over 30 planner and journal layouts, an interview with Riley’s Desk, the what, why, and how of junk journaling, tours through various analog trends, and more!
+  </p>
 </div>
 
 <div id="issue3-letter-from-editor">
