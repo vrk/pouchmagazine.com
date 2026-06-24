@@ -48,7 +48,7 @@ isHome: true
       <div id="pouch-first-page">
       </div>
       <div id="pouch-page-flip-container">
-        <div id="top-pouch" class="pouch-pouch card">
+        <div id="top-pouch" class="card">
           <div class="under-pouch-cover">
           </div>
           <div class="content">
