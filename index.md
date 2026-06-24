@@ -43,7 +43,9 @@ isHome: true
 
 <div id="issue3-letter-from-editor">
   <div id="easel-container">
-    <div id="easel"></div>
+    <div id="easel">
+      <p id="easel-title">Read the Table of Contents and Letter from the Editor above~</p>
+    </div>
     <div id="spread-container">
       <div id="pouch-first-page">
       </div>
@@ -60,5 +62,6 @@ isHome: true
         </div>
       </div>
     </div>
+    <div id="easel-bunny"></div>
   </div>
 </div>

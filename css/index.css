@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   position: relative;
-  margin-bottom: 15%;
+  margin-bottom: 20%;
 }
 
 .issue3-scene .wall {
@@ -158,7 +158,7 @@
   border: 5px solid black;
   border-radius: 50px;
   padding: 35px;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 
 #issue3-look-inside-pouch h2 {
@@ -175,9 +175,20 @@
 #easel-container {
   position: relative;
   width: 800px;
-  aspect-ratio: 1064 / 1143;
+  aspect-ratio: 1064 / 1250;
   margin-left: auto;
   margin-right: auto;
+}
+
+#easel-bunny {
+  background-image: url(/images/issue3/standing.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  aspect-ratio: 346 / 747;
+  width: 15%;
+  position: absolute;
+  bottom: 2%;
+  right: -5%;
 }
 
 #easel {
@@ -188,6 +199,15 @@
   aspect-ratio: 1064 / 1143;
   width: 90%;
   left: 5%;
+}
+
+#easel-title {
+  position: absolute;
+  bottom: 10.2%;
+  text-align: center;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 #spread-container {
