@@ -225,7 +225,7 @@
 
 .white-card {
   background-color: white;
-  border: 5px solid black;
+  border: 2.5px solid black;
   border-radius: 50px;
   padding: 35px;
 }
@@ -233,6 +233,7 @@
 .white-card h2 {
   font-size: 28px;
   text-align: center;
+  text-wrap: balance;
   margin: 0;
 }
 
@@ -259,11 +260,10 @@
   aspect-ratio: 6 / 5;
 }
 
-
-
 #easel-container {
   position: relative;
   width: 800px;
+  max-width: 90%;
   aspect-ratio: 1064 / 1250;
   margin-left: auto;
   margin-right: auto;
@@ -449,8 +449,6 @@
   text-align: center;
 }
 
-
-
 @media (max-width: 900px) {
   .skybunny-box {
     display: none;
@@ -464,9 +462,9 @@
   }
 
   .bunny {
-    width: 90%;
-    bottom: 0;
-    right: -10%;
+    width: 83%;
+    bottom: 28%;
+    right: 0;
     top: unset;
   }
 
@@ -474,9 +472,25 @@
     width: 90%;
   }
 
+  .wall {
+    padding-top: 50px;
+  }
+
+  .pouch-title-box {
+    top: -332%;
+  }
+
+  #easel-title {
+    display: none;
+  }
+
   .main-scene,
   .mountain-bg {
     aspect-ratio: 800 / 440;
+  }
+
+  .issue3-scene2 {
+    aspect-ratio: 800 / 300;
   }
 
   .mountain-bg {
@@ -490,13 +504,13 @@
 
   .eraser {
     position: absolute;
-    bottom: 17%;
-    left: 3%;
+    bottom: 67%;
+    left: 2%;
     background-image: url(/images/issue3/eraser.png);
     background-size: contain;
     background-repeat: no-repeat;
     aspect-ratio: 213 / 115;
-    width: 20%;
+    width: 18%;
     transform: rotate(-10deg);
     display: block;
   }
@@ -510,5 +524,22 @@
     aspect-ratio: 310 / 276;
     width: 125%;
     transform: rotate(37deg);
+  }
+
+  #issue3-look-inside-pouch {
+    padding: 25px;
+    border-radius: 25px;
+  }
+
+  #issue3-look-inside-pouch p {
+    font-size: 16px;
+  }
+
+  .white-card h2 {
+    font-size: 24px;
+  }
+
+  #issue3-look-inside-pouch video {
+    width: 100%;
   }
 }
