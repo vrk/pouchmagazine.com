@@ -13,32 +13,34 @@ isHome: true
     <div class="mountain-bg-right"></div>
     <div class="main-scene">
       <div class="mountain-bg">
-      <div class="skybunny-box">
-        <div class="skybunny"></div>
-        <div class="balloon"></div>
-      </div>
-        <div class="center-stage">
-          <div class="flower-1"></div>
-          <div class="flower-2"></div>
-          <div class="header-box">
-            <div class="pouch-title-box">
-              <div class="pouch-title">
-              </div>
-              <div class="pouch-subtitle">
-                Issue 3 out now!
-              </div>
-            </div>
-            <div class="bunny">
-            </div>
-            <div class="eraser">
-              <div class="dialogue"></div>
-            </div>
-          </div>
+        <div class="skybunny-box">
+          <div class="skybunny"></div>
+          <div class="balloon"></div>
         </div>
       </div>
     </div>
   </div>
 </div>
+<div class="issue3-scene2 hero">
+  <div class="center-stage">
+    <div class="flower-1"></div>
+    <div class="flower-2"></div>
+    <div class="header-box">
+      <div class="pouch-title-box">
+        <div class="pouch-title">
+        </div>
+        <div class="pouch-subtitle">
+          Issue 3 out now!
+        </div>
+      </div>
+      <div class="bunny"></div>
+      <div class="eraser">
+        <div class="dialogue"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div id="issue3-look-inside-pouch" class="white-card">
   <h2>Take a look inside Pouch Issue 3:</h2>
   <video autoplay="" controls="" disablepictureinpicture="" loop="" muted="" playsinline="" preload="auto">
