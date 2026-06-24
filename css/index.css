@@ -329,6 +329,38 @@
   width: 400px;
 }
 
+#issue3-thank-you {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  max-width: 1024px;
+}
+
+#tree {
+  background-image: url(/images/issue3/tree.png);
+  aspect-ratio: 416 / 440;
+  height: 440px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+  left: -75px;
+}
+
+.blank-card {
+  max-width: 600px;
+}
+
+.blank-card p {
+  text-align: center;
+}
+
+.blank-card h2 {
+  font-size: 34px;
+  text-align: center;
+}
+
 @keyframes run {
   0% {
     right: -8%;

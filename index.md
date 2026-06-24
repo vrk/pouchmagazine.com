@@ -76,3 +76,11 @@ isHome: true
     </div>
   </div>
 </div>
+
+<div id="issue3-thank-you">
+  <div id="tree"></div>
+  <div class="blank-card">
+    <h2>We hope you enjoy the issue!!</h2>
+    <p>Thanks so much for reading and supporting this tiny indie magazine <3</p>
+  </div>
+</div>
