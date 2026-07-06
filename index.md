@@ -20,7 +20,7 @@ skipPouchLogo: true
         <div class="pouch-scene-subtitle">
           <a href="https://shop.pouchmagazine.com/b/preorder-issue-3" target="_blank" class="start-unlined">Preorder Issue 3!</a>
           <div class="subtitle-subtitle"> 
-          Pouch 3 is coming May/June 2026
+          Pouch 3 preorders are shipping now!
           </div>
         </div>
         <div class="pouch-scene-rope"></div>
