@@ -159,6 +159,15 @@
   transform: scaleX(1);
 }
 
+a.magnify {
+  transition: transform 0.2s;
+  transform: scale(1);
+}
+
+a.magnify:hover {
+  transform: scale(1.05);
+}
+
 @keyframes run {
   0% {
     right: -8%;
@@ -543,6 +552,17 @@
 
   #issue3-buy-pouch-3 {
     flex-direction: column;
+    gap: 25px;
+  }
+
+  #issue3-buy-pouch-3 .white-card {
+    padding: 25px;
+    border-radius: 25px;
+    max-width: 90%;
+  }
+
+  #pouch-3-cover {
+    height: 400px;
   }
 
   #issue3-thank-you {
