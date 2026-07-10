@@ -47,7 +47,7 @@ isHome: true
       <source src="/images/issue2/flipthrough.mp4" type="video/mp4">
     </video>
   <p>
-  Here's a flip through some of the pages of Pouch Issue 3! In this issue, we're centering the journeys of both first-time and long-time analog enthusiasts. Pouch 3 features over 30 planner and journal layouts, an interview with Riley’s Desk, the what, why, and how of junk journaling, tours through various analog trends, and more!
+Here's a flip through some of the pages of Pouch Issue 3! In this issue, we're centering the journeys of both first-time and long-time analog enthusiasts. Pouch 3 features over 30 planner and journal layouts, an interview with Riley’s Desk, the what, why, and how of junk journaling, tours through various analog trends, and more!
   </p>
 </div>
 
