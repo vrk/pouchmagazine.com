@@ -4,131 +4,93 @@ title: Pouch Magazine | an indie magazine for stationery lovers
 stylesheet: /css/index.css
 script: /scripts/index.js
 skipPouchLogo: true
+isHome: true
 ---
 
-<div class="issue2-scene hero">
+<div class="issue3-scene hero">
   <div class="wall">
+    <div class="mountain-bg-left"></div>
+    <div class="mountain-bg-right"></div>
     <div class="main-scene">
-      <div class="prof-bunny-box">
-        <div class="prof-dialogue"></div>
-        <div class="prof-bunny"></div>
-      </div>
-      <div class="pouch-out-now">
-        <a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank">
-          <div class="pouch-scene-title"></div>
-        </a>
-        <div class="pouch-scene-subtitle">
-          <a href="https://shop.pouchmagazine.com/b/preorder-issue-3" target="_blank" class="start-unlined">Preorder Issue 3!</a>
-          <div class="subtitle-subtitle"> 
-          Pouch 3 preorders are shipping now!
-          </div>
+      <div class="mountain-bg">
+        <div class="skybunny-box">
+          <div class="skybunny"></div>
+          <div class="balloon"></div>
         </div>
-        <div class="pouch-scene-rope"></div>
-      </div>
-      <div class="shop">
-        <!-- <div class="shop-door-open"></div> -->
-        <a href="https://shop.pouchmagazine.com" target="_blank"><div class="shop-door-closed"></div></a>
       </div>
     </div>
   </div>
-  <div class="floor">
-    <div class="floor-scene">
-      <div class="bunny-sit"></div>
-      <div class="floor-featuring">
-        <p><a href="https://shop.pouchmagazine.com/b/pouch-issue-2" target="_blank" class="start-unlined">Pouch Issue 2</a> features:</p>
-        <div class="feature-table">
-          <div class="feature-item">
-            <div class="feature-icon">
-              <div class="feature-icon-image stationery-reviews"></div>
-            </div>
-            <div class="feature-caption">Stationery<br>reviews</div>
-          </div>
-          <div class="feature-item">
-            <div class="feature-icon">
-              <div class="feature-icon-image pouch-reviews"></div>
-            </div>
-            <div class="feature-caption">Pouch reviews<br>(like actual pouches)</div>
-          </div>
-          <div class="feature-item">
-            <div class="feature-icon">
-              <div class="feature-icon-image interview"></div>
-            </div>
-            <div class="feature-caption">Visual journaling<br>with <a href="https://carolynyoo.com/" target="_blank" class="start-unlined">Carolyn Yoo</a></div>
-          </div>
-          <div class="feature-item">
-            <div class="feature-icon">
-              <div class="feature-icon-image gallery"></div>
-            </div>
-            <div class="feature-caption">Over 20 journals<br>in 3 galleries</div>
-          </div>
-          <div class="feature-item">
-            <div class="feature-icon">
-              <div class="feature-icon-image hot-takes"></div>
-            </div>
-            <div class="feature-caption">Stationery hot takes</div>
-          </div>
-          <div class="feature-item">
-            <div class="feature-icon">
-              <div class="feature-icon-image and-more"></div>
-            </div>
-            <div class="feature-caption">And more...!</div>
-          </div>
+</div>
+<div class="issue3-scene2 hero">
+  <div class="center-stage">
+    <div class="flower-1"></div>
+    <div class="flower-2"></div>
+    <div class="header-box">
+      <div class="pouch-title-box">
+        <div class="pouch-title">
+        </div>
+        <div class="pouch-subtitle">
+          <a href="https://shop.pouchmagazine.com/b/pouch-issue-3" target="_blank">Issue 3 out now!</a>
         </div>
       </div>
-      <div class="bunny-stand"></div>
+      <div class="bunny"></div>
+      <div class="eraser">
+        <div class="dialogue"></div>
+      </div>
     </div>
   </div>
 </div>
 
-
-<div class="washi-top">
-  <div class="container">
-    <h2><span>Look inside: 58 pages of content!</span></h2>
-    <video autoplay controls disablepictureinpicture loop muted playsinline preload=auto>
-      <source src="/images/issue2/flipthrough.mp4" type="video/mp4" />
+<div id="issue3-look-inside-pouch" class="white-card">
+  <h2>Take a look inside Pouch Issue 3:</h2>
+  <video autoplay="" controls="" disablepictureinpicture="" loop="" muted="" playsinline="" preload="auto">
+      <source src="/images/issue3/pouch3-flipthrough.mov" type="video/mp4">
     </video>
-    <div class="look-inside">
-      Here's a flip through some of the pages of Pouch Issue 2! Read stationery reviews, tons of journaling inspiration, tips, tutorials, and more!
+  <p>
+Here's a flip through some of the pages of <a href="https://shop.pouchmagazine.com/b/pouch-issue-3" target="_blank">Pouch Issue 3</a>! In this issue, we're centering the journeys of both first-time and long-time analog enthusiasts. Pouch 3 features over 30 planner and journal layouts, an interview with <a href="https://www.rileysdesk.com/" target="_blank">Riley’s Desk</a>, the what, why, and how of junk journaling, tours through various analog trends, and more!
+  </p>
+</div>
+
+<div id="issue3-letter-from-editor">
+  <div id="easel-container">
+    <div id="easel">
+      <p id="easel-title">Read the Table of Contents and Letter from the Editor above~</p>
+    </div>
+    <div id="spread-container">
+      <div id="pouch-first-page">
+      </div>
+      <div id="pouch-page-flip-container">
+        <div id="top-pouch" class="card">
+          <div class="under-pouch-cover">
+          </div>
+          <div class="content">
+            <div class="front pouch-cover">
+            </div>
+            <div class="back">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="easel-bunny"></div>
+  </div>
+</div>
+
+<div id="issue3-buy-pouch-3">
+  <a href="https://shop.pouchmagazine.com/b/pouch-issue-3" target="_blank" class="magnify"><div id="pouch-3-cover"></div></a>
+  <div class="white-card">
+    <h2>Buy Pouch Issue 3</h2>
+    <p>Get the issue today! Pouch Issue 3 ships worldwide.</p>
+    <div class="center-button">
+      <a href="https://shop.pouchmagazine.com/b/pouch-issue-3" class="button">Buy Pouch Issue 3</a>
     </div>
   </div>
 </div>
 
-<div class="table-of-contents">
-  <div class="issue2-toc"></div>
-</div>
-
-<div class="main-page-banner buy-pouch" id="submit">
-  <div class="description">
-    <h2>Buy Pouch Issue 2</h2>
-    <p>Get the issue today! Pouch Issue 2 ships worldwide.</p>
-    <p class="button-banner"><a href="https://shop.pouchmagazine.com/b/pouch-issue-2" class="button">Buy Pouch Issue 2</a></p>
-  </div>
-  <div class="header-image"></div>
-</div>
-
-<div class="main-page-banner submit-pouch" id="submit">
-  <div class="header-image-flip"></div>
-  <div class="description-flip">
-    <h2>Call for Submissions to Pouch #3 open now</h2>
-    <p>Share a spread from your planner or journal, and it may be published in Pouch #3's layout gallery.</p>
-    <p class="button-banner"><a href="/pouch-03/submit" class="button">Submit to Pouch #3</a></p>
-  </div>
-</div>
-
-<div class="main-page-banner buy-stickers" id="submit">
-  <div class="description">
-    <h2>We have stickers!</h2>
-    <p>Shop the sticker collection</p>
-    <p class="button-banner"><a href="https://shop.pouchmagazine.com/collection/stickers" class="button">Buy Stickers</a></p>
-  </div>
-  <div class="header-image"></div>
-</div>
-
-<div class="feedback">
-  <a href="https://afkv6t1wxkk.typeform.com/to/YoiVzUlF" target="_blank"><img src="/images/pouch-feedback-graphic.png"></a>
-  <div class="feedback-text">
-    <h2>Send feedback on Pouch Issue #2</h2>
-    <p>If you’ve read Pouch Issue 2, we’d love to hear your thoughts on it!
-    <p>&gt; <a href="https://afkv6t1wxkk.typeform.com/to/YoiVzUlF" target="_blank">Fill out the feedback survey</a> &lt;
+<div id="issue3-thank-you">
+  <div id="tree"></div>
+  <div class="blank-card">
+    <h2>We hope you enjoy the issue!!</h2>
+    <p>Thanks so much for reading and supporting this tiny indie magazine <3</p>
   </div>
 </div>

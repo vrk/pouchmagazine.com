@@ -33,7 +33,7 @@ header, footer, .button {
 }
 
 header {
-  background-color: #FFFEF2;
+  background-color: #00D0FF;
   font-family: "Gaegu", sans-serif;
   font-size: 36px;
   width: 100%;
@@ -113,13 +113,16 @@ footer {
   margin-top: auto;
 }
 
+.center-button {
+  text-align: center;
+}
+
 a.button {
   cursor: pointer;
   display: inline-block;
-  background-color: #FF5C00;
+  background-color: #FF6400;
   color: white;
-  border: 3px solid white;
-  border-radius: 15px;
+  border-radius: 10px;
   padding: 10px 20px;
   text-decoration: none;
   font-weight: 600;
@@ -205,8 +208,13 @@ main > div:not(.hero) {
   margin-right: auto;
 }
 
-main {
+main.page {
   margin-bottom: 150px;
+}
+
+main.home {
+  flex-grow: 1;
+  background-color: #a4d400;
 }
 
 @media (max-width: 900px) { 
