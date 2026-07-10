@@ -6,13 +6,9 @@ stylesheet: /css/about.css
 
 ## About _Pouch_
 
-**Pouch** is an indie magazine for journalers and stationery lovers. It features stationery reviews and recommendations, journaling ideas and inspiration, a community layout gallery, and more.
+**Pouch** is an indie magazine for journalers and stationery lovers. It features stationery reviews and recommendations, journaling ideas and inspiration, community layout galleries, and more.
 
-[Pouch Issue 3](https://shop.pouchmagazine.com/b/preorder-issue-3) is available for preorder now! It's slated to launch Spring 2026.
-
-[Pouch Issue 2](https://shop.pouchmagazine.com/b/pouch-issue-2) launched in Spring 2025 and is available for purchase on the store, either physically or digitally. Issue 2 includes article contributions from [Nikki Kaigi](https://www.instagram.com/nikki.kaigi/) and [Reytorra](https://www.instagram.com/reytorra), in addition to myself, [vrk](https://www.instagram.com/pouch.studio), and community contributions for the layout galleries and hot takes section.
-
-Pouch is currently produced, designed, edited, and illustrated by a team of one: me, vrk! I am funding this 100% myself and operating out of my living room. It is a passion project and labor of love 💖
+The latest issue is [Pouch Issue 3](https://shop.pouchmagazine.com/b/pouch-issue-3), which launched in Summer 2026. 
 
 To keep up to date with Pouch news:
 
@@ -20,5 +16,16 @@ To keep up to date with Pouch news:
 - Subscribe to my newsletter, [vrklovespaper](https://vrklovespaper.substack.com/)
 
 Feel free to reach out by sending an email to [victoriakirst@gmail.com](mailto:victoriakirst@gmail.com) if you have any questions, suggestions, feedback, or comments!
+
+
+## _Pouch_ Team for Issue 3
+
+- [Victoria Kirst](https://www.instagram.com/p/DTx0FalEVK4/): Founder, editor-in-chief, designer and illustrator
+- [JM Boots](https://www.instagram.com/p/DVGx8ASEZzV/): Editor and writer
+- [Carolyn Yoo](https://www.instagram.com/p/DUQnCpkkT6R/): Writer and photographer
+- [Nikki Chan](https://www.instagram.com/p/DT-vt7AkaZH/): Writer and photographer
+- [Tami Forrester](https://www.instagram.com/p/DUiyIo5kYZN/): Writer and photographer
+
+...in addition to everyone who contributed journal and planner layouts for the issue!
 
 _PS: If you’re a fan of Pouch, you might enjoy my other work, too! Check out [Pouch Studio](https://pouch.studio) for more._
