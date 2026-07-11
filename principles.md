@@ -30,4 +30,3 @@ What Pouch IS NOT:
 - **❌ *NO* sponsored content + *NO* freebies:** No articles are paid for, and we pay for all stationery (similar to: https://www.rtings.com/company/about-us)
 - **❌ *NOT* carelessly negative:** E.g. Not “HOBONICHI IS TERRIBLE” ← want to be considerate of both Hobonichi fans *and* employees!
 - **❌ *NOT* overlapping with what Japanese Stationery Mooks (e.g. LETTERS) would publish**
-    - E.g. *Not* highlighting Marie Techo, someone whom LETTERS etc would publish
