@@ -27,6 +27,6 @@ What Pouch IS NOT:
 - **❌ *NOT* a “haul” or “unboxing”** — not new stuff we haven’t tried yet; instead, we feature products that we’ve actually used; ideas that we’ve actually done
 - **❌ *NOT* a platform for the top 1% creators / not The Rolling Stone of journals**
     - **Exceptions:** If it’s part of a “snapshot in time” story, or if they submit something unprompted, etc, we can consider!
-- **❌ *NO* sponsored content + *NO* freebies:** No articles are paid for, and we pay for all stationery (similar to: https://www.rtings.com/company/about-us)
+- **❌ *NO* sponsored content + *NO* freebies:** No articles are paid for, and we pay for all stationery (similar [rtings](https://www.rtings.com/company/about-us))
 - **❌ *NOT* carelessly negative:** E.g. Not “HOBONICHI IS TERRIBLE” ← want to be considerate of both Hobonichi fans *and* employees!
 - **❌ *NOT* overlapping with what Japanese Stationery Mooks (e.g. LETTERS) would publish**
