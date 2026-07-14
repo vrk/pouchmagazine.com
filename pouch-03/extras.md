@@ -239,3 +239,31 @@ Illustration by Victoria Kirst
 
 **Page 51**
 - [Carolyn Yoo](https://www.carolynyoo.com/)
+- Martina Calvi [@martinamartian](https://www.instagram.com/martinamartian/)
+
+**Page 52**
+- [Midori Assorted Letter Set](https://www.atlasstationers.com/collections/midori/products/midori86763006)
+
+**Page 53**
+- [Haricot Vert](https://www.haricotvert.shop/)
+- [Classiky Biscuit Sticky Note](https://yosekastationery.com/products/classiky-kraft-sticky-notes-biscuit?srsltid=AfmBOorZ7LTnyKqAy0wLolR5q-zuuYP4GcNovnLfBolhUQiWtAY43wd6)
+- [Gongjang Nature Memo Pad](https://parceloakland.com/products/gongjang-nature-memo-pad)
+
+**Page 54**
+- [Trolls Paper Memo Pad](https://www.etsy.com/listing/1397283654/trolls-paper-plain-memopad-weekly)
+- [Hotitaka Long Turtle Memo](https://www.instagram.com/hotitaka/)
+- [Seitousha Red Flower Memo](https://cutethingsfromjapan.com/products/square-memo-pad-red-flowers)
+
+**Page 55**
+- [Classiky x mitsou Washi Tape, blue stripes](https://www.bostongeneralstore.com/products/mitsou-masking-tape-stripe-blue)
+
+**Page 56**
+- Teni [@teenyteni](https://instagram.com/teenyteni)
+- TT: [@teenyteni](https://tiktok.com/@teenyteni)
+- [Point of View](https://pointofview.kr/)
+- [OH!SOME](https://www.ohsome.com/)
+
+**Page 58**
+- Lauren (@jackalopejournals)[https://instagram.com/jackalopejournals]
+- YT: (@jackalopejournals)[https://yotuube.com/@jackalopejournals]
+- [Dominant Industry Ink Muddler](https://goldspot.com/products/dominant-industry-ink-muddler?srsltid=AfmBOoobt4nYr_eBxgwaC6xZKn5xayTe9zeVVHsa15rK_bwesWu-V1QH)
