@@ -109,3 +109,65 @@ Illustration by Victoria Kirst
 - [Summer Night](https://www.instagram.com/yoou29)
 - [Abbey Sy](https://www.youtube.com/@abbeysy)
 - [Abbey Sy's Daily Journaling Layout Ideas](https://www.youtube.com/watch?v=vUPx2iRp_1Q)
+
+**Page 22**
+
+- Cai [@withlove_cai](https://instagram.com/withlove_cai)
+- TikTok: [@withlove_cai](https://tiktok.com/@withlove_cai)
+- [One Journal CARTA](https://www.etsy.com/listing/4381713310/carta-collection-a6-20)
+
+**Page 23**
+
+- Madi Daughn [@madi.daughn](https://youtube.com/@madi.daughn)
+- [Sarica Studio Passport Size Inserts](https://saricastudio.com/shop/notebooks/passport-size)
+
+
+**Page 24**
+
+- Patricia Ch&aacute;vez [@chavezdaus](https://instagram.com/chavezdaus)
+- [@laduearts_chavez](https://instagram.com/laduearts_chavez)
+- [Hobonichi Cousin](https://www.1101.com/store/techo/en/2026/all_about/cousin/)
+
+**Page 25**
+
+- [@justrainysunshines](https://instagram.com/justrainysunshines)
+- [MD Notebook B6 Slim - Graph](https://www.jetpens.com/MD-Notebook-B6-Slim-Grid/pd/24153)
+- [Gold Mildliner](https://www.jetpens.com/Zebra-Mildliner-Double-Sided-Highlighter-Fine-Bold-Mild-Gold/pd/12737)
+- [Brown Mildliner](https://www.jetpens.com/Zebra-Mildliner-Double-Sided-Highlighter-Fine-Bold-Mild-Brown/pd/12735)
+- [Suatelier Sticker Sheet No. 1154](https://thepinkyelephant.com/products/suatelier-sticker-sheet-no-1154-small-happiness?variant=44203313529070)
+- [Suatelier Sticker Sheet No. 1103](https://simplepaper.co/products/suatelier-stickers-no-1103-awesome?srsltid=AfmBOorZySCvIxecnj9xV-uGb6u7OaQ6kNI0FbBkaMDFctzacscWmI4H)
+
+**Page 26**
+- [Hobonichi Cousin](https://www.1101.com/store/techo/en/2026/all_about/cousin/)
+- [Stabilio Point 88 Fineliner Pen - Light Blue](https://www.jetpens.com/Stabilo-Point-88-Fineliner-Pen-0.4-mm-Light-Blue-31/pd/20660)
+
+**Page 27**
+
+- Sofia [@sofiacrg](https://instagram.com/sofiacrg)
+- [Jibun Techo Standard, A5 Slim](https://yosekastationery.com/products/kokuyo-jibun-techo-2026-first-kit-standard-a5-slim)
+- [Pochitto6 Push-Button Stamp - Schedule Book / Planner](https://www.sumthingsofmine.com/products/pochitto6-push-button-stamp-planner)
+
+**Page 28**
+
+- Phayvanh Luekhamhan [@martini_martha](https://instagram.com/martini_martha)
+- [phayvanh](https://phayvanh.substack.com)
+- [Leuchtturm1917 Planner Stickers - 2026](https://www.jetpens.com/Leuchtturm1917-Planner-Stickers-2026-Medium-A5-Monthly/pd/46595)
+- [Post-it Tabs](https://www.dickblick.com/products/3m-post-it-tabs/?srsltid=AfmBOopE-N2zLtAdbFb3zAZrmRnWoVroObd9LTgogufwL9iM6aT8l6XG)
+
+**Page 29**
+
+- Jinny Cho [@hello.comma.comma](https://www.instagram.com/hello.comma.comma)
+- [@HelloCommaComma](https://youtube.com/@HelloCommaComma)
+- [STAlOGY Circular Washi Tape Patches](https://www.jetpens.com/STALOGY-Circular-Washi-Tape-Patches/ct/5191)
+
+**Page 30 - 37**
+- [Riley's Desk](https://www.rileysdesk.com/) 
+- IG: [@rileys_desk](https://www.instagram.com/rileys_desk)
+- YT: [@rileysdesk](https://youtube.com/@rileysdesk)
+- [The Washi Station](http://thewashistation.com/)
+- [Hobonichi A6 Original](https://www.1101.com/store/techo/en/2026/all_about/original/?srsltid=AfmBOoq-Z0zADthRVjCHGaW1xlMtr8X-TVYADyPv2LYPL4VeQbPxDUVg)
+- [Birds of America](https://www.audubon.org/art/birds-of-america)
+- [Uni-ball One P Gel Pen](https://www.jetpens.com/Uni-ball-One-P-Gel-Pen-0.38-mm-Mandarin-Orange-Body-Black-Ink/pd/36767)
+- [Chai Overdose](https://instagram.com/chaioverdose)
+
+**Page 38**
