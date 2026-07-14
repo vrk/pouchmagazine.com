@@ -151,6 +151,7 @@ Illustration by Victoria Kirst
 
 - Phayvanh Luekhamhan [@martini_martha](https://instagram.com/martini_martha)
 - [phayvanh](https://phayvanh.substack.com)
+- [Leuchtturm1917 A5 notebook, lined](https://www.jetpens.com/Leuchtturm1917-Notebooks/ct/3789?&f=256af6d408966623)
 - [Leuchtturm1917 Planner Stickers - 2026](https://www.jetpens.com/Leuchtturm1917-Planner-Stickers-2026-Medium-A5-Monthly/pd/46595)
 - [Post-it Tabs](https://www.dickblick.com/products/3m-post-it-tabs/?srsltid=AfmBOopE-N2zLtAdbFb3zAZrmRnWoVroObd9LTgogufwL9iM6aT8l6XG)
 
@@ -171,3 +172,70 @@ Illustration by Victoria Kirst
 - [Chai Overdose](https://instagram.com/chaioverdose)
 
 **Page 38**
+- Sammi Zhang [@somethingsammi](https://instagram.com/somethingsammi)
+- Substack: [sammizhang](https://sammizhang.substack.com/)
+- [Yamato Memoc Sticky Notes](https://www.jetpens.com/Yamato-Tape-Roll-Sticky-Notes/ct/5264)
+- [MD Notebook - B6 Slim - Blank](https://www.jetpens.com/MD-Notebook-B6-Slim-Blank/pd/24151)
+- [MD Notebook Cover - Clear - B6 Slim](https://www.jetpens.com/MD-Notebook-Cover-Clear-B6-Slim/pd/26080)
+- Nikka [sugarbrah](https://tiktok.com/@sugarbrah)
+- [Unicorn Eclipse Soft Cover Dot Grid Notebook](https://unicorneclipse.com/collections/dotted-journals)
+
+**Page 39**
+- Sandy Lee [@miaoyin.studio](https://instagram.com/miaoyin.studio)
+- [Miaoyin Studio](https://miaoyinstudio.com)
+- [Hobonichi Weeks](https://www.1101.com/store/techo/en/2026/all_about/weeks/?srsltid=AfmBOooG7TQ7W9CzIDur3dj51pum5pSr48zCfdlCBvW_S_3WDU5-CADq)
+- [@yang_diary](https://www.instagram.com/yang_diary)
+- [Miaoyin Studio Sweet Treat Sticker Sheet](https://www.miaoyinstudio.com/product/sweet-treat-sticker-sheet)
+- Jessica Le [@noodledesk](https://instagram.com/noodledesk)
+- Substack: [dessin](https://dessin.substack.com)
+- [MD Notebook - A5 - Grid](https://www.jetpens.com/MD-Notebook-A5-Grid/pd/13607)
+
+**Page 40**
+- [Nikki Chan](https://instagram.com/nikki.kaigi)
+- [System Techo STYLE](https://www.magazinecafestore.com/products/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%89%8B%E5%B8%B3style?srsltid=AfmBOooQueripPnZaNPjkrJv3ZH35kRzOJLNj2kjkMgfPIVq7Ja42F5E)
+
+**Page 41**
+- [@littlelu_lu](https://instagram.com/littlelu_lu)
+- [Little Lu: Pon Pon Life Stamp](https://thepinkyelephant.com/products/littlelu-rubber-stamp-2026-spring-lifestyle?variant=47832171741422)
+- [Little Lu: Study Stamp](https://thepinkyelephant.com/products/littlelu-rubber-stamp-spring-release-lifestyle)
+- [Little Lu: Pondering Stamp](https://thepinkyelephant.com/products/littlelu-mini-rubber-stamps-15?variant=44032743801070)
+- [LIttle Lu: Sighing Stamp](https://thepinkyelephant.com/products/littlelu-mini-rubber-stamps-1?variant=43853698662638)
+- [Little Lu: Clap Stamp](https://thepinkyelephant.com/products/littlelu-mini-rubber-stamps_spring-release?variant=44718672543982)
+- [Little Lu: Em? Stamp](https://thepinkyelephant.com/products/littlelu-rubber-stamp-spring-release-1x1cm?variant=46270677188846)
+
+**Page 42**
+
+- [@littlelu_lu](https://instagram.com/littlelu_lu)
+- [Little Lu: Bun Stamp](https://thepinkyelephant.com/products/littlelu-rubber-stamp-spring-release-1x1cm?variant=46270677221614)
+- [Little Lu: Heart Left](https://www.ablanknote.com/products/littlelu-stamp-medium-vol-3)
+- [Little Lu: Heart Right](https://www.ablanknote.com/products/littlelu-stamp-medium-vol-3)
+- [Hobonichi Cousin](https://www.1101.com/store/techo/en/2026/all_about/cousin/)
+
+**Page 43**
+- [The Original Filofax](https://us.filofax.com/collections/the-original?srsltid=AfmBOop4gyjU7j5V0m4XdADXpt_iovQgxP4s08XRth0B-8DrhKY39_Ms)
+
+**Page 46**
+- [Hobonichi Weeks](https://www.1101.com/store/techo/en/2026/all_about/weeks/?srsltid=AfmBOooG7TQ7W9CzIDur3dj51pum5pSr48zCfdlCBvW_S_3WDU5-CADq)
+
+**Page 47**
+- Carol [@carolll.archives](https://instagram.com/carolll.archives)
+- [@ella_nym](https://youtube.com/@ella_nym)
+
+**Page 48**
+- Angie Chua [@bobodesignstudio](https://instagram.com/bobodesignstudio)
+- [@bobopalmsprings](https://instagram.com/bobopalmsprings)
+- [Wanderlust Passport](https://bobodesignstudio.com/products/wanderlust-passport-a-travel-journal?srsltid=AfmBOoojFJrMJiGHKH180MxMD5kTb8kCs5kgYSXNmqVvHWFTZKsb1ujI)
+- [Tombow Brush Pens](https://www.jetpens.com/Tombow-Brush-Pens/ct/3050)
+- [Pentel Mattehop Pens](https://www.jetpens.com/Pentel-Hybrid-Mattehop-Gel-Pens/ct/7072)
+- [Pentel Milky Pop Pen](https://www.dickblick.com/products/pentel-milky-pop-pen-set/?srsltid=AfmBOorjGoKvRSSYzGGpP5XjhEc65UibtReLBmJH8QEvjf2rU-cD3up6)
+- [Kuretake ZIG Clean Color dot pens](https://www.jetpens.com/Kuretake-ZIG-Clean-Color-Dot-Markers/ct/5733)
+
+**Page 50**
+
+- Deborah Kim [@dire](https://instagram.com/dire)
+- Substack: [tendertimes](https://tendertimes.substack.com)
+- [Hobonichi Cousin Avec](https://www.goodpostage.com/products/hobonichi-cousin-avec-book-a5-july-start?srsltid=AfmBOor9svNUYKYNo_AdC5tVliIMVDm0tOpA3JfEUIDW33JYvOyHD9Xp)
+- [Kuretake ZIG Clean Color Dot Double-Sided Marker - Kiwi](https://www.jetpens.com/Kuretake-ZIG-Clean-Color-Dot-Double-Sided-Marker-Kiwi/pd/27499)
+
+**Page 51**
+- [Carolyn Yoo](https://www.carolynyoo.com/)
