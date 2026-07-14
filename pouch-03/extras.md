@@ -39,3 +39,22 @@ Illustration by Victoria Kirst
 - [Traveler's Notebook - Regular](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-025-Regular-Size-Cream-Blank/pd/26933)
 - [Kitana Ink](https://www.kitana-ink.com/)
 - [therochellefish](https://www.instagram.com/therochellefish/)
+
+**Page 7**
+
+- [Tami Forrester](https://instagram.com/tami.jo)
+- [Traveler's Notebook - Regular Size - Brown](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Starter-Kit-Regular-Size-Brown-Leather/pd/13623)
+- [Traveler's Notebook - Regular Size - Camel](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Starter-Kit-Regular-Size-Camel-Leather/pd/15935)
+- [Traveler's Notebook - Passport Size - Blue](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Starter-Kit-Passport-Size-Blue-Leather/pd/23525)
+
+**Page 10**
+- [Traveler's Notebook Brass Clip](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Accessories-030-Brass-Clip-TRC-Logo/pd/26942?gad_source=1&gad_campaignid=149545824&gbraid=0AAAAAD-ty4ReqjvbgXHpU4x_0VzIm5CNr&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCYmjDqoMMJtB7kDdX6Ocf3qt1cZUBUf9w3DZjAl42rq5x_J5tpU4mBoCc8AQAvD_BwE)
+
+**Page 12**
+
+- [Traveler's 017 Free Monthly Diary](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-017-Regular-Size-Free-Monthly-Planner/pd/13652)
+- [Traveler's 003 Blank Notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-003-Regular-Size-Blank/pd/13646)
+- [Traveler's 019 Free Diary Weekly + Memo](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-019-Regular-Size-Free-Weekly-Planner-with-Memo/pd/13645)
+- [Traveler's 031 Sticker Release Paper](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-031-Regular-Size-Sticker-Release-Paper/pd/37811)
+- [Traveler's Passport 014 Dot Grid](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-014-Passport-Size-Dot-Grid/pd/26939)
+- [Traveler's Passport 003 Blank Notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-003-Passport-Size-Blank/pd/13639)
