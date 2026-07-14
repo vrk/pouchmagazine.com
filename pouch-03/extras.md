@@ -260,10 +260,44 @@ Illustration by Victoria Kirst
 **Page 56**
 - Teni [@teenyteni](https://instagram.com/teenyteni)
 - TT: [@teenyteni](https://tiktok.com/@teenyteni)
+- [Traveler's Notebook - Regular](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-025-Regular-Size-Cream-Blank/pd/26933)
 - [Point of View](https://pointofview.kr/)
 - [OH!SOME](https://www.ohsome.com/)
 
 **Page 58**
-- Lauren (@jackalopejournals)[https://instagram.com/jackalopejournals]
-- YT: (@jackalopejournals)[https://yotuube.com/@jackalopejournals]
+- Lauren [@jackalopejournals](https://instagram.com/jackalopejournals)
+- YT: [@jackalopejournals](https://yotuube.com/@jackalopejournals)
+- [MD Notebook - A6 - Grid](https://www.jetpens.com/MD-Notebook-A6-Grid/pd/13604)
 - [Dominant Industry Ink Muddler](https://goldspot.com/products/dominant-industry-ink-muddler?srsltid=AfmBOoobt4nYr_eBxgwaC6xZKn5xayTe9zeVVHsa15rK_bwesWu-V1QH)
+
+**Page 59**
+- Skylasso [@skylasso](https://instagram.com/skylasso)
+- Bluesky: [@skylasso.com](https://bsky.app/profile/skylasso.com)
+- [Hobonichi Techo Original A6](https://www.1101.com/store/techo/en/2026/pc/detail_cover/ob26_jan_en/?srsltid=AfmBOorlDcqtxFiI7G_vrojNjWTwe9KvkMZEXd2VHwjstXdwpGFVICRx)
+- [Speedball Speedy-Carve Blocks](https://www.dickblick.com/products/speedball-speedy-carve-blocks/?srsltid=AfmBOoqZk5sWkbYVWdjk3QHNm6CCoBpEk5dupgpFDUT4eCBNnav2ucIw)
+- [Speedball Speedy-Carve Basic Kit](https://www.dickblick.com/products/speedball-speedy-carve-basic-kit/)
+
+**Page 60**
+- Megan Alms [@megan_alms_writing](https://instagram.com/megan_alms_writing)
+- YT: [@meganalms](https://yotuube.com/meganalms)
+- [Hobonichi Weeks](https://www.1101.com/store/techo/en/2026/all_about/weeks/?srsltid=AfmBOooG7TQ7W9CzIDur3dj51pum5pSr48zCfdlCBvW_S_3WDU5-CADq)
+
+**Page 61**
+- Tammy [@papeletammy](https://instagram.com/papeletammy)
+- [Traveler's Notebook - Regular](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-025-Regular-Size-Cream-Blank/pd/26933)
+
+**Page 62**
+- Lauren [@laurensjournal.jpg](https://instagram.com/laurensjournal.jpg)
+- [Traveler's Notebook - Regular](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-025-Regular-Size-Cream-Blank/pd/26933)
+- Genna [genspens](https://instagram.com/genspens)
+- YT: [genspens](https://youtube.com/@genspens)
+
+**Page 63**
+- [@pouch.studio](https://instagram.com/pouch.studio)
+- [vrklovespaper Substack](vrklovespaper.substack.com)
+- [@charminganachronism](https://instagram.com/charminganachronism)
+- [@carolynyoo](https://instagram.com/carolynyoo)
+- [@nikki.kaigi](https://instagram.com/nikki.kaigi)
+- [@tami.jo](https://instagram.com/tami.jo)
+- [@aarontheillustrator](https://instagram.com/aarontheillustrator)
+- [Pouch Issue 3 feedback survey](https://forms.gle/mdKvBxMed9PXwsa18)
