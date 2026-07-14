@@ -58,3 +58,54 @@ Illustration by Victoria Kirst
 - [Traveler's 031 Sticker Release Paper](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-031-Regular-Size-Sticker-Release-Paper/pd/37811)
 - [Traveler's Passport 014 Dot Grid](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-014-Passport-Size-Dot-Grid/pd/26939)
 - [Traveler's Passport 003 Blank Notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-003-Passport-Size-Blank/pd/13639)
+
+**Page 13**
+
+- Sai [@baomo.studio](https://instagram.com/baomo.studio)
+- [@TheAnalogueDiaries](https://youtube.com/@TheAnalogueDiaries)
+- [Hobonichi A6 notebook](https://www.jetpens.com/Hobonichi-Graph-Notebook-A6/pd/30392)
+- [Penco Clampy Clip](https://hightidestoredtla.com/products/plastic-clippenco-black?srsltid=AfmBOorcv7vf7Swt6U0FIO2w-abEuGsiMP8E6y0Jn6jJDlyddc7nkZTq&variant=45884484747498)
+
+**Page 14**
+
+- Icy [paperful](https://paperful.substack.com/)
+- [Traveler's Passport 003 Blank Notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-003-Passport-Size-Blank/pd/13639)
+- [King Jim KITTA Washi Tape](https://paperwhisper.com/products/king-jim-hitotoki-kitta-basic-washi-tape-reprinted-mountain-foil?srsltid=AfmBOorz5acJotz7F-zq9S2ccvLdQoCrxIzEJlLGJl9PtEYaADndsUqo)
+- [La Dolce Vita stickers](https://thepinkyelephant.com/collections/la-dolce-vita?srsltid=AfmBOoqefUTt2uanM2pSzIsiDRjCPb-OlzUjtEpVscCUujb1qvRot6Xr)
+
+**Page 15**
+
+- Seafoam [@seafoamrabbit](https://instagram.com/seafoamrabbit)
+- [Traveler's 003 Blank Notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-003-Regular-Size-Blank/pd/13646)
+- [Prismacolor colored pencils](https://www.dickblick.com/products/prismacolor-premier-colored-pencils/?srsltid=AfmBOop-NTs4u72W66aFcbWw42cptgaS2FYsfGCZQXCCJyjJmmUFmHbb)
+
+**Page 16**
+
+- Maggie Graff [@dogwooddriveva](https://instagram.com/dogwooddriveva)
+- [Traveler's 003 Blank Notebook](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Refill-003-Regular-Size-Blank/pd/13646)
+- [Traveler's Notebook Brass Clip](https://www.jetpens.com/TRAVELER-S-COMPANY-TRAVELER-S-notebook-Accessories-030-Brass-Clip-TRC-Logo/pd/26942?gad_source=1&gad_campaignid=149545824&gbraid=0AAAAAD-ty4ReqjvbgXHpU4x_0VzIm5CNr&gclid=CjwKCAjwvNfSBhBiEiwAyaGMCYmjDqoMMJtB7kDdX6Ocf3qt1cZUBUf9w3DZjAl42rq5x_J5tpU4mBoCc8AQAvD_BwE)
+- Chelsea Park [wordsinthemargins](https://wordsinthemargins.substack.com)
+- [@thosewithwords](https://youtube.com/@thosewithwords)
+
+
+**Page 17**
+- Kiran Baclay [@kiran.baclay](https://instagram.com/@kiran.baclay)
+- [@kiranbaclay](https://youtube.com/@kiranbaclay)
+- [Sterling ink N1 grid booklet](https://sterling-ink.com/collections/booklets/n1?srsltid=AfmBOop56lY0bNbj-qn4vL0g8EoSY6x3iE9DL5Jm-9rr4z2OuHd6v-nb)
+
+
+**Page 18**
+
+- [Carolyn Yoo](https://www.carolynyoo.com/)
+- [Hobonichi Techo Original A6](https://www.1101.com/store/techo/en/2026/pc/detail_cover/ob26_jan_en/?srsltid=AfmBOorlDcqtxFiI7G_vrojNjWTwe9KvkMZEXd2VHwjstXdwpGFVICRx)
+- [Hobonichi Techo Original A6 Iyo Okumi cover](https://www.1101.com/store/techo/en/2026/pc/detail_cover/oc26_okumi/)
+
+**Page 20**
+
+- [TWSBI ECO Fountain Pen](https://www.jetpens.com/TWSBI-ECO-Bahama-Yellow-Fountain-Pen-Broad/pd/51719)
+
+**Page 21**
+
+- [Summer Night](https://www.instagram.com/yoou29)
+- [Abbey Sy](https://www.youtube.com/@abbeysy)
+- [Abbey Sy's Daily Journaling Layout Ideas](https://www.youtube.com/watch?v=vUPx2iRp_1Q)
