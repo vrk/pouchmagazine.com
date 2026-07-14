@@ -8,7 +8,7 @@ stylesheet: /css/about.css
 
 Anything I missed? Feel free to email [victoriakirst@gmail.com](mailto:victoriakirst@gmail.com) with questions!
 
-**Cover:**
+**Cover**
 
 Illustration by Victoria Kirst
 
